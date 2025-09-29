@@ -1,3 +1,5 @@
+import logo from "@/assets/logo.png";
+
 const Footer = () => {
   const footerLinks = {
     Categories: [
@@ -24,9 +26,12 @@ const Footer = () => {
       <div className="content-container py-16">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
           <div>
-            <h3 className="text-xl font-display font-semibold mb-4">
-              The Present Pile
-            </h3>
+            <div className="flex items-center space-x-3 mb-4">
+              <img src={logo} alt="The Present Pile Logo" className="h-10 w-10" />
+              <h3 className="text-xl font-display font-semibold">
+                The Present Pile
+              </h3>
+            </div>
             <p className="text-sm text-muted-foreground">
               Curated gift guides for the thoughtful giver.
             </p>

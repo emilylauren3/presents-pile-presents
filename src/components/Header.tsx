@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Search, Menu } from "lucide-react";
+import logo from "@/assets/logo.png";
 
 const Header = () => {
   const categories = [
@@ -15,7 +16,8 @@ const Header = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <a href="/" className="flex items-center space-x-2">
+            <a href="/" className="flex items-center space-x-3">
+              <img src={logo} alt="The Present Pile Logo" className="h-12 w-12" />
               <h1 className="text-2xl font-display font-semibold text-foreground">
                 The Present Pile
               </h1>
