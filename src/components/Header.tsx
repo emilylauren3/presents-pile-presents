@@ -7,6 +7,7 @@ const Header = () => {
     { name: "By Recipient", href: "#recipient" },
     { name: "By Occasion", href: "#occasion" },
     { name: "By Price", href: "#price" },
+    { name: "Blog", href: "/blog" },
     { name: "Top Piles", href: "#top" },
   ];
 
