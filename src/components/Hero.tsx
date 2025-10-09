@@ -1,8 +1,15 @@
+import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
 import heroImage from "@/assets/hero-gifts.jpg";
 
 const Hero = () => {
+  const scrollToNewsletter = () => {
+    const newsletterSection = document.querySelector('[data-newsletter-section]');
+    if (newsletterSection) {
+      newsletterSection.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
   return (
     <section className="relative h-[70vh] md:h-[80vh] overflow-hidden">
       {/* Background Image */}
@@ -29,11 +36,18 @@ const Hero = () => {
             From birthdays to holidays, we've found the perfect presents for everyone on your list.
           </p>
           <div className="flex flex-wrap gap-4">
-            <Button variant="editorial" size="lg" className="group uppercase tracking-wide">
-              Explore Gift Guides
-              <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
+            <Button asChild variant="editorial" size="lg" className="group uppercase tracking-wide">
+              <Link to="/blog">
+                Explore Gift Guides
+                <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
+              </Link>
             </Button>
-            <Button variant="ghost" size="lg" className="uppercase tracking-wide">
+            <Button 
+              variant="ghost" 
+              size="lg" 
+              className="uppercase tracking-wide"
+              onClick={scrollToNewsletter}
+            >
               Subscribe to Newsletter
             </Button>
           </div>

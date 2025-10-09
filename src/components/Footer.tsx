@@ -11,7 +11,7 @@ const Footer = () => {
     About: [
       { name: "Our Story", href: "#" },
       { name: "Contact", href: "#" },
-      { name: "Affiliate Disclosure", href: "#" },
+      { name: "Affiliate Disclosure", href: "/affiliate-disclosure" },
       { name: "Privacy Policy", href: "#" },
     ],
     Follow: [
