@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Search, Menu } from "lucide-react";
+import { Link } from "react-router-dom";
 import logo from "@/assets/logo.png";
 
 const Header = () => {
@@ -17,24 +18,24 @@ const Header = () => {
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <a href="/" className="flex items-center space-x-3">
+            <Link to="/" className="flex items-center space-x-3">
               <img src={logo} alt="The Present Pile Logo" className="h-12 w-12" />
               <h1 className="text-2xl font-display font-semibold text-foreground">
                 The Present Pile
               </h1>
-            </a>
+            </Link>
           </div>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
             {categories.map((category) => (
-              <a
+              <Link
                 key={category.name}
-                href={category.href}
+                to={category.href}
                 className="caption text-muted-foreground hover:text-primary transition-colors duration-200"
               >
                 {category.name}
-              </a>
+              </Link>
             ))}
           </nav>
 
