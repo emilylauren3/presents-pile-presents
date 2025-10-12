@@ -48,7 +48,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $29 - $45 (Varies by style and size)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Official NBA Brand, Durable for Outdoor Use, Options for Team Logos (Raptors) or Fun Colors (Pink), Available in Sizes 6 & 7.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/48E0Igk" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -63,7 +63,7 @@ const GiftsAllTweens = () => {
                 </p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: 5-Book Collection, High-Rated Thriller/Sci-Fi Series, Great Value for a Complete Set, Perfect for Fans of Dystopian Adventure.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4nWKdQO" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -79,7 +79,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: Under $50 (Great value for three popular hardcover books!)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Complete 3-Book Set, Popular Teen Romance/Drama, TV Show Tie-in, Perfect for Fans of Love Triangles and Summer Stories.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4gNO8xf" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -98,7 +98,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $39.99</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Easy-to-Use 3D Drawing, Includes Starter Plastic and Stencils, Great for Creativity and STEM Fun.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/46GPsgE" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -114,7 +114,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $34.99</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Make Your Own Squishies, Includes Glitter and Slime, Promotes Hands-On Creativity, A Popular Toy Trend.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4gPP0kV" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -133,7 +133,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: Under $300 priced at $279</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: High-Performance Drifting, Brushless 24V Motor, Built-in Bluetooth/MP3 Player, Includes Protective Gear, Great for Boys & Girls.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4nY0Ag6" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -152,7 +152,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $169.98</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Iconic ONE PIECE Ship, Includes Straw Hat Crew Figures, High-Demand Collectible/Playset, Appeals to Boys & Girls 10+.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/42XkZts" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -165,7 +165,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $38.93</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: 3-in-1 Building Options (Panda, Penguin, Orca), Great Value, Encourages Creativity and Rebuilding Fun</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/46L7uhP" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -179,7 +179,7 @@ const GiftsAllTweens = () => {
                   This kit is designed for Arduino learners—it teaches your pre-teen (boys and girls alike!) the basics of programming, electronics, and robotics in a hands-on way. They get to build their own functional robot car that includes an UNO R3 board, line tracking, an ultrasonic sensor, and an IR remote control.
                 </p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3VJlhAo" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -198,7 +198,7 @@ const GiftsAllTweens = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $98.98</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Iconic Wednesday Dorm Room, Includes 4 Minifigures, Great for Pretend Play and Display, Perfect Pop Culture Gift.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3WndEQd" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
             </div>
