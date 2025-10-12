@@ -41,7 +41,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $115 (Premium Style Tool)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Iconic CHI Ceramic Technology, Adjustable Temperature (up to 410°F), Dual Voltage for travel.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3IrMwfT" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -57,7 +57,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $114.99</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: ZINK Zero Ink Technology, 2x3" Sticky-Backed Photos, Bluetooth Connectivity.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3VLouPX" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -76,7 +76,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $29 (A highly affordable gift!)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Sleeping Headphones, Built-in Microphone, Soft Fabric, Bluetooth.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4pKNjtb" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -92,7 +92,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $219.99 (often on sale for less)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Large 11.0-inch Display, 4 GB RAM, Expandable Storage, Wi-Fi.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4gOutgt" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -116,7 +116,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $20 - $35 (Highly budget-friendly!)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: 50 Colors, Oven-Baked, Sculpting Tools & Accessories, Non-Sticky, Great for Jewelry and Charms.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4gVcSnk" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -139,7 +139,7 @@ const AccessoriesTweenGirls = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: $25 - $35 (Based on similar competitor kits, it sits in the affordable gift range)</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3KuRkSa" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -155,7 +155,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $24 (Expansion packs available for $14.99)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Over 1200 Heishi Beads, Easy Beading Pen, Makes 15 Bracelets, Stackable Jewelry Design.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4gPevTt" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -171,7 +171,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $104 - $164 (Price varies by size)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Giant Size, Memory Foam Filled, Soft Fabric, Great for Lounging and Gaming.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4nXXf0y" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -187,7 +187,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $129</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Instant Prints, Easy Automatic Use (No complicated settings!), Complete Gift Set, Creates Shareable, Physical Memories.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3Iz53qB" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -200,7 +200,7 @@ const AccessoriesTweenGirls = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $13.99</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Super Soft Headband & Wristbands, Prevents Water Messes, Great for Face Washing/Skincare, Cute Assorted Colors.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4pUapO0" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -212,7 +212,7 @@ const AccessoriesTweenGirls = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: $29</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/42kSu8X" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
             </div>
