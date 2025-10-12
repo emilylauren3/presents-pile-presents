@@ -37,7 +37,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: Under $50 / Under $100 (depending on sale)</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3IsCFqa" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -49,7 +49,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: Under $100</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/42lLKrs" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -61,7 +61,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: Under $250 (with coupon)</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4pQvnNI" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -76,7 +76,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: Under $150 (Excellent value for a full pro-style setup!)</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3KNMvDv" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -91,7 +91,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: Under $250 (Act fast to get the limited-time deal!)</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4pON547" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -106,7 +106,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: Around $120–$130 (Film sold separately—don't forget the film!)</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4mLGapH" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -121,7 +121,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="font-semibold text-primary mt-4">Price Category: Under $50</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/46QM8Q5" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -137,7 +137,7 @@ const TechGadgetsTweenBoys = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: Under $50 (Just $49!)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Feature: Auto-Hover and Safe Foam Design</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/4gPL4Rb" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -152,7 +152,7 @@ const TechGadgetsTweenBoys = () => {
                 </p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: 4K Camera, Brushless Motor, 36 Min Flight Time</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/46K4G4r" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -168,7 +168,7 @@ const TechGadgetsTweenBoys = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $149</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Feature: Ferrofluid dances dynamically to external music (No sound output).</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3IrMncl" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -184,7 +184,7 @@ const TechGadgetsTweenBoys = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $89.43</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Remote Control Robot Battle, Includes 2 Iconic BattleBots (Bite Force & Blacksmith), Detachable Armor for Real Action, All Batteries Included.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/48GuvF1" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
 
@@ -200,7 +200,7 @@ const TechGadgetsTweenBoys = () => {
                 <p className="font-semibold text-primary mt-4">Price Category: $24.99 (30% off)</p>
                 <p className="text-sm text-muted-foreground mt-2">Key Features: Glows in the Dark, Extends Playtime, Durable Sports Gear, Perfect for Teenagers and Kids Ages 8-14.</p>
                 <Button asChild variant="default" className="mt-4">
-                  <a href="#" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  <a href="https://amzn.to/3Ip0EGL" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                 </Button>
               </section>
             </div>
