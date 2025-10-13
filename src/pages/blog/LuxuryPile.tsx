@@ -38,7 +38,7 @@ const LuxuryPile = () => {
                     Forget the clunky fitness trackers; this is the ultimate social currency for the health-obsessed. The Oura Ring tracks sleep, stress, activity, and recovery with a precision and style that's totally subtle and chic. It's not just a gadget; it's a 24/7 personalized recovery coach hiding on their finger. For the person who has everything but wants the data on how good they're actually sleeping.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/4omYzuh" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/3WAYtTI" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -54,7 +54,7 @@ const LuxuryPile = () => {
                     This is what happens when you decide to skip the pricey spa treatments and bring the entire esthetician's office home. With four light modes, this mask is the ultimate skin-care accessory. If they're obsessed with beauty trends and room aesthetics, this is the futuristic, photo-ready gift they didn't know they needed.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/48ZfgXW" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4h8Igie" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -86,7 +86,7 @@ const LuxuryPile = () => {
                     A must-have for the dedicated at-home facialist. This kit provides a professional steam for facial detox and sinus relief, and it comes complimentary with 17 skincare tools, so you're truly stacking your Present Pile with value. It's the simplest way to get that "I-knew-you'd-love-it" glow.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/4nQfxkK" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/3IRuOm9" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -102,7 +102,7 @@ const LuxuryPile = () => {
                     A candle that's a gift and a treasure hunt? Yes, please. This bubble gum-scented soy candle has a mystery piece of jewelry (like a hidden necklace) inside. It's the perfect, indulgent little surprise for a relaxing night in.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/4h8Igie" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4nQfxkK" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -118,7 +118,7 @@ const LuxuryPile = () => {
                     You can't have a luxury pile without the ultimate K-Beauty haul. This line is for the skincare aficionado who appreciates clinical-level results with beautiful, minimalist packaging. This clear toner works to refine pores and leave skin looking airbrushed.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/4nQfzcm" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/48WI2sf" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -134,7 +134,7 @@ const LuxuryPile = () => {
                     The perfect on-the-go tool for flawless skin. This quick clay stick mask is a simple, no-mess way to get that deep clean and refine pores. It's an investment in their face, making it a guaranteed hit.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/4nNx9gY" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/3W2e6Dv" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -150,7 +150,7 @@ const LuxuryPile = () => {
                     The finishing touch to the ultimate skincare regimen. This fresh ampoule is the concentrated boost of hydration and clarity that makes a dramatic difference.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/3IRuOm9" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4h3IyGU" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -173,7 +173,7 @@ const LuxuryPile = () => {
                     This isn't just a frying pan; it's the pan that ends the debate between stainless steel and nonstick. It's a hybrid marvel that delivers performance (sears like cast iron) and convenience (cleans like nonstick). This gift says, "I support your passion for cooking, but I also support your need for an easy clean-up."
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/42BpDNV" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4omYzuh" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -189,7 +189,7 @@ const LuxuryPile = () => {
                     For the person who believes a $7 latte is a lifestyle—but is ready for an upgrade. This sleek, platinum-finish machine is the ultimate coffee and espresso solution. It's the easiest way to achieve that "Wow!" moment before their morning meeting.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/3IUQg9U" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4qp8UHZ" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -205,7 +205,7 @@ const LuxuryPile = () => {
                     If you've ever struggled to find the perfect gift for a hot sleeper, this is your secret code cracked. These cooling sheets are the luxurious, life-changing difference between a restless night and a deeply recovered one.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/4q74QM1" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/42BpDNV" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -221,7 +221,7 @@ const LuxuryPile = () => {
                     For the person whose desk or vanity deserves a serious aesthetic upgrade. This rotating organizer keeps every tool and accessory in its place, making those viral beauty trends (or just a regular Tuesday morning routine) feel completely effortless.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/4qp8UHZ" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4nQfzcm" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -244,7 +244,7 @@ const LuxuryPile = () => {
                     The ultimate piece of high-tech gear. It's not just a bike; it's a community, a schedule, and a motivational coach all rolled into one. This is the big-ticket item that says, "I'm buying into your passion for fitness," and is personally vetted to become a huge hit.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/3WAYtTI" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/3IUQg9U" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -260,7 +260,7 @@ const LuxuryPile = () => {
                     Some classics are non-negotiable. These Havana/Gradient Brown sunglasses are a sleek, timeless accessory. They're the social currency that completes any look, ensuring they're never rolling their eyes at being "too grown-up".
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/48WI2sf" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4nNx9gY" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -276,7 +276,7 @@ const LuxuryPile = () => {
                     Every luxury pile needs a chic, versatile handbag. This small satchel in a beautiful toasted hazelnut shade is the perfect size—it fits all the essentials without becoming a bottomless pit. It's an investment piece that is guaranteed to earn bragging rights.
                   </p>
                   <Button variant="editorial" asChild>
-                    <a href="https://amzn.to/3W2e6Dv" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                    <a href="https://amzn.to/4q74QM1" target="_blank" rel="noopener noreferrer">View on Amazon</a>
                   </Button>
                 </CardContent>
               </Card>
@@ -291,7 +291,9 @@ const LuxuryPile = () => {
                   <p className="mb-4">
                     Because great music and cozy ambiance are always in style. This portable speaker combines a quality sound system with a flickering flame light, making it the perfect accessory for outdoor gatherings. It's a simple way to elevate an evening and enhance their patio aesthetics.
                   </p>
-                  <Button variant="editorial">View on Amazon</Button>
+                  <Button variant="editorial" asChild>
+                    <a href="https://amzn.to/48ZfgXW" target="_blank" rel="noopener noreferrer">View on Amazon</a>
+                  </Button>
                 </CardContent>
               </Card>
             </div>
