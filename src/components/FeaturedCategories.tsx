@@ -1,4 +1,5 @@
 import { ArrowRight } from "lucide-react";
+import { Link } from "react-router-dom";
 import giftCollection1 from "@/assets/gift-collection-1.jpg";
 import giftCollection2 from "@/assets/gift-collection-2.jpg";
 import giftCollection3 from "@/assets/gift-collection-3.jpg";
@@ -9,18 +10,21 @@ const categories = [
     description: "Warmth, comfort, and all things hygge for the homebody in your life.",
     image: giftCollection1,
     tag: "For Home Lovers",
+    link: "#",
   },
   {
     title: "The Luxury Pile",
     description: "Elevated gifts that make a statement. For those special splurge-worthy moments.",
     image: giftCollection2,
     tag: "Premium Selection",
+    link: "/blog/luxury-pile",
   },
   {
     title: "The Self-Care Pile",
     description: "Indulgent treats for wellness enthusiasts who deserve a little pampering.",
     image: giftCollection3,
     tag: "Wellness & Beauty",
+    link: "#",
   },
 ];
 
@@ -38,33 +42,36 @@ const FeaturedCategories = () => {
 
         <div className="editorial-grid">
           {categories.map((category) => (
-            <article
+            <Link
               key={category.title}
+              to={category.link}
               className="group cursor-pointer"
             >
-              <div className="relative aspect-[4/3] overflow-hidden rounded-sm mb-6">
-                <img
-                  src={category.image}
-                  alt={category.title}
-                  className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
-                />
-                <div className="absolute top-4 left-4">
-                  <span className="caption bg-background/90 text-foreground px-3 py-1 rounded-sm">
-                    {category.tag}
-                  </span>
+              <article>
+                <div className="relative aspect-[4/3] overflow-hidden rounded-sm mb-6">
+                  <img
+                    src={category.image}
+                    alt={category.title}
+                    className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                  />
+                  <div className="absolute top-4 left-4">
+                    <span className="caption bg-background/90 text-foreground px-3 py-1 rounded-sm">
+                      {category.tag}
+                    </span>
+                  </div>
                 </div>
-              </div>
-              <h3 className="display-sm mb-3 group-hover:text-primary transition-colors">
-                {category.title}
-              </h3>
-              <p className="body-md text-muted-foreground mb-4">
-                {category.description}
-              </p>
-              <button className="btn-minimal group/link">
-                View Collection
-                <ArrowRight className="ml-2 h-4 w-4 group-hover/link:translate-x-1 transition-transform" />
-              </button>
-            </article>
+                <h3 className="display-sm mb-3 group-hover:text-primary transition-colors">
+                  {category.title}
+                </h3>
+                <p className="body-md text-muted-foreground mb-4">
+                  {category.description}
+                </p>
+                <button className="btn-minimal group/link">
+                  View Collection
+                  <ArrowRight className="ml-2 h-4 w-4 group-hover/link:translate-x-1 transition-transform" />
+                </button>
+              </article>
+            </Link>
           ))}
         </div>
       </div>
