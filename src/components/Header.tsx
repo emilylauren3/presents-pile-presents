@@ -9,7 +9,7 @@ const Header = () => {
     { name: "By Recipient", href: "#recipient" },
     { name: "By Occasion", href: "#occasion" },
     { name: "By Price", href: "#price" },
-    { name: "Top Piles", href: "#top" },
+    { name: "Top Piles", href: "/blog/luxury-pile" },
   ];
 
   return (
