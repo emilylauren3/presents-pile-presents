@@ -37,6 +37,11 @@ const Blog = () => {
       title: "Best Gifts and Toys for All Tweens",
       link: "/blog/gifts-all-tweens",
       date: "October 2025"
+    },
+    {
+      title: "Luxury Pile",
+      link: "/blog/luxury-pile",
+      date: "October 2025"
     }
   ];
 
