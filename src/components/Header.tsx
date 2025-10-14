@@ -6,8 +6,6 @@ import logo from "@/assets/logo.png";
 const Header = () => {
   const categories = [
     { name: "Blog", href: "/blog" },
-    { name: "By Recipient", href: "#recipient" },
-    { name: "By Occasion", href: "#occasion" },
     { name: "By Price", href: "#price" },
     { name: "Top Piles", href: "/blog/luxury-pile" },
   ];
