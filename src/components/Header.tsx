@@ -16,7 +16,7 @@ const Header = () => {
 
   const categories = [
     { name: "Blog", href: "/blog" },
-    { name: "By Price", href: "#price" },
+    { name: "By Price", href: "/by-price" },
     { name: "Top Piles", href: "/blog/luxury-pile" },
   ];
 
