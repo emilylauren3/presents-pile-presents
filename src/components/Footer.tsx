@@ -1,4 +1,5 @@
 import logo from "@/assets/logo.png";
+import { Instagram, Facebook, ExternalLink } from "lucide-react";
 
 const Footer = () => {
   const footerLinks = {
@@ -11,12 +12,13 @@ const Footer = () => {
       { name: "Affiliate Disclosure", href: "/affiliate-disclosure" },
       { name: "Privacy Policy", href: "#" },
     ],
-    Follow: [
-      { name: "Instagram", href: "#" },
-      { name: "Pinterest", href: "#" },
-      { name: "Facebook", href: "#" },
-    ],
   };
+
+  const socialLinks = [
+    { name: "Instagram", href: "https://www.instagram.com/thepresentpile", icon: Instagram },
+    { name: "Pinterest", href: "https://www.pinterest.com/ThePresentPile", icon: ExternalLink },
+    { name: "Facebook", href: "https://www.facebook.com/profile.php?id=61581456816886", icon: Facebook },
+  ];
 
   return (
     <footer className="bg-secondary/50 border-t border-border">
@@ -50,6 +52,27 @@ const Footer = () => {
               </ul>
             </div>
           ))}
+          <div>
+            <h4 className="caption mb-4">Follow</h4>
+            <ul className="space-y-2">
+              {socialLinks.map((link) => {
+                const Icon = link.icon;
+                return (
+                  <li key={link.name}>
+                    <a
+                      href={link.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-sm text-muted-foreground hover:text-primary transition-colors flex items-center gap-2"
+                    >
+                      <Icon className="h-4 w-4" />
+                      {link.name}
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
         </div>
         <div className="pt-8 border-t border-border">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
