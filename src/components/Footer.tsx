@@ -3,13 +3,10 @@ import logo from "@/assets/logo.png";
 const Footer = () => {
   const footerLinks = {
     Categories: [
-      { name: "By Recipient", href: "#" },
-      { name: "By Occasion", href: "#" },
-      { name: "By Price", href: "#" },
-      { name: "By Interest", href: "#" },
+      { name: "By Price", href: "/by-price" },
+      { name: "Blog", href: "/blog" },
     ],
     About: [
-      { name: "Our Story", href: "#" },
       { name: "Contact", href: "#" },
       { name: "Affiliate Disclosure", href: "/affiliate-disclosure" },
       { name: "Privacy Policy", href: "#" },
