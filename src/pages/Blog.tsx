@@ -8,12 +8,12 @@ import { ArrowRight, Calendar, User } from "lucide-react";
 const Blog = () => {
   // Featured post (most recent)
   const featuredPost = {
-    title: "The Preteen Puzzle: The Ultimate, No-Fail Gift Guide for 10–13 Year Olds",
-    description: "Struggling to find a gift for a preteen? I've cracked the code with this ultimate, no-fail gift guide for 10-13 year olds they'll actually use.",
-    link: "/blog/preteen-gift-guide",
-    date: "October 8, 2025",
+    title: "Gifts for the Man Who Has Everything? 10 Must-Have Tech Gadgets",
+    description: "Shopping for the man who has everything? Discover our curated list of must-have tech gadgets and high-tech gear that will actually impress him.",
+    link: "/blog/tech-gifts-for-men",
+    date: "October 15, 2025",
     author: "The Present Pile",
-    excerpt: "Like many moms and dads (and grandparents, aunts, and best friends!), I recently struggled to find a gift that my newly 12-year-old son would actually be excited about. That struggle is real, and it's usually silent—because let's be honest, asking a preteen what they want usually results in a grunt and a blank stare."
+    excerpt: "So, you're on the hunt for the perfect gift for that special man (or men!) in your life—the one who seems to already have everything. Whether he's a work-from-home warrior, a road-tripping guru, or a guy who gets genuinely excited about the latest tech, we know the struggle is real when looking for unique gifts for the man who has everything. Let's be honest: Shopping for these independent, tech-savvy men is a full-contact sport. My own man is the worst; if he wants it, he usually just goes and gets it! That's why I'm here to help you find the absolute best tech gifts for him this year. Don't worry, I decided to put on my detective hat. I've been secretly paying attention, meticulously watching, and doing the deep-dive research to compile the ultimate list. The items here aren't just things my guy would love—they're the must-have gadgets and high-tech gear for men that I'm betting yours will, too. Take a look below at our extensive and (seriously) curated Tech Gift Guide for Men 2025 dedicated to buying the perfect piece of tech for the amazing men in your life!"
   };
 
   // All blog posts for sidebar
