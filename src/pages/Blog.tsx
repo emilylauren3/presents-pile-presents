@@ -19,6 +19,11 @@ const Blog = () => {
   // All blog posts for sidebar
   const allPosts = [
     {
+      title: "Gifts for the Man Who Has Everything? 10 Must-Have Tech Gadgets",
+      link: "/blog/tech-gifts-for-men",
+      date: "October 15, 2025"
+    },
+    {
       title: "The Preteen Puzzle: The Ultimate, No-Fail Gift Guide for 10–13 Year Olds",
       link: "/blog/preteen-gift-guide",
       date: "October 8, 2025"
@@ -47,6 +52,12 @@ const Blog = () => {
 
   // Gift guide blocks (displayed below featured post)
   const guides = [
+    {
+      title: "Gifts for the Man Who Has Everything? 10 Must-Have Tech Gadgets",
+      description: "10 must-have tech gadgets and high-tech gear that will actually impress the man who has everything.",
+      link: "/blog/tech-gifts-for-men",
+      price: "Under $50 - $1,100+"
+    },
     {
       title: "The Hottest Tech & Gadgets for Tween Boys",
       description: "12 must-have tech toys and gadgets perfect for boys aged 10-13, from gaming gear to RC cars.",
