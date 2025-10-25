@@ -2,9 +2,22 @@ import { Link } from "react-router-dom";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Button } from "@/components/ui/button";
-import { ArrowLeft } from "lucide-react";
+import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { ArrowLeft, ExternalLink } from "lucide-react";
+import { gifts } from "@/data/gifts";
 
 const TechGiftsForMen = () => {
+  const techGifts = gifts.filter(gift => gift.guideSource === "Tech Gifts for Men");
+
+  const getPriceCategory = (price: number) => {
+    if (price < 25) return "Under $25";
+    if (price < 50) return "Under $50";
+    if (price < 100) return "Under $100";
+    if (price < 200) return "Under $200";
+    return "$300+";
+  };
+
   return (
     <div className="min-h-screen">
       <Header />
@@ -61,12 +74,50 @@ const TechGiftsForMen = () => {
 
               <section className="mb-12">
                 <h2 className="text-2xl font-display font-semibold mb-4">The Ultimate Tech Gift Guide for Men 2025</h2>
-                <p className="mb-6">
+                <p className="mb-8">
                   Take a look below at our extensive and (seriously) curated Tech Gift Guide for Men 2025 dedicated to buying the perfect piece of tech for the amazing men in your life!
                 </p>
-                <p className="font-semibold text-primary mb-4">
-                  Coming soon: Our complete list of 10 must-have tech gadgets that will actually impress the man who has everything.
-                </p>
+
+                <div className="space-y-8">
+                  {techGifts.map((gift, index) => (
+                    <Card key={gift.id} className="overflow-hidden hover:shadow-lg transition-shadow">
+                      <CardHeader>
+                        <div className="flex items-start justify-between gap-4 mb-2">
+                          <div className="flex-1">
+                            <div className="flex items-center gap-2 mb-2">
+                              <span className="text-3xl font-bold text-primary">{index + 1}.</span>
+                              <Badge variant="secondary">{getPriceCategory(gift.price)}</Badge>
+                            </div>
+                            <CardTitle className="text-xl mb-2">{gift.title}</CardTitle>
+                            <CardDescription className="text-base">{gift.description}</CardDescription>
+                          </div>
+                          <div className="text-right">
+                            <div className="text-2xl font-bold text-primary">
+                              ${gift.price.toFixed(2)}
+                            </div>
+                          </div>
+                        </div>
+                      </CardHeader>
+                      <CardContent>
+                        <p className="text-muted-foreground leading-relaxed">
+                          {gift.fullDescription}
+                        </p>
+                      </CardContent>
+                      <CardFooter>
+                        <Button asChild className="w-full sm:w-auto" size="lg">
+                          <a 
+                            href={gift.affiliateLink} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                          >
+                            Shop Now on Amazon
+                            <ExternalLink className="ml-2 h-4 w-4" />
+                          </a>
+                        </Button>
+                      </CardFooter>
+                    </Card>
+                  ))}
+                </div>
               </section>
             </div>
           </div>

@@ -404,5 +404,107 @@ export const gifts: Gift[] = [
     affiliateLink: "https://amzn.to/3Ip0EGL",
     category: "Sports",
     guideSource: "Tech Gadgets for Tween Boys"
+  },
+  
+  // Tech Gifts for Men
+  {
+    id: "efomao-ergonomic-office-chair",
+    title: "Efomao Big Tall Ergonomic Office Chair (450LBS Capacity)",
+    description: "Luxury office chair with lumbar support, retractable footrest, and 135° recline",
+    fullDescription: "Okay, fine, technically this isn't a new piece of tech, but hear me out: The man can't conquer his spreadsheets or his enemies (in a video game) if his spine is slowly dissolving! This is the big daddy of chairs. Built for the big and tall (up to 450 lbs, in fact!), it's less of a seat and more of a luxury lounge experience masquerading as an office supply. It features high-back support, adjustable padded armrests (so his elbows don't get jealous), and actual lumbar support that makes you feel like you just got a hug from a cloud. The best part? The retractable footrest. When he needs a mental break from his WFH grind, he can lean back (135° recline, baby!) and pretend he's on a private jet instead of a Zoom call. It's the essential upgrade for a healthy back and a happy tech-focused life.",
+    price: 399.99,
+    affiliateLink: "https://amzn.to/4osINOv",
+    category: "Office & Productivity",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "logitech-mx-brio-4k-webcam",
+    title: "Logitech MX Brio Ultra HD 4K Collaboration, Streaming Webcam",
+    description: "Premium 4K webcam with AI enhancements, Show Mode, and advanced lighting correction",
+    fullDescription: "Forget trying to find the perfect lighting ring—this camera is the perfect lighting ring, and then some. The MX Brio is the new reigning king of webcams, packing Ultra HD 4K resolution at 30 FPS (or buttery-smooth 1080p at 60 FPS for streamers who love that high frame rate life). It's like giving the man in your life a mini, AI-powered production studio. It features a massive sensor and advanced AI enhancements that make him look great in everything from dim basement light to a room with a harsh sun glare (say goodbye to that witness protection silhouette). The coolest party trick? 'Show Mode' allows him to tilt the camera down to instantly show off his notes, a sketch, or his latest Lego build—perfect for collaboration without fumbling with his phone. No content creator, WFH hero, or aspiring Twitch streamer should be without this lens. (Amazon stats: A great 4.4 out of 5 stars, with 100+ recently bought!)",
+    price: 299.00,
+    affiliateLink: "https://amzn.to/4nfWVtj",
+    category: "Office & Productivity",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "hyperx-quadcast-s-rgb-microphone",
+    title: "HyperX QuadCast S RGB USB Condenser Microphone with Shock Mount",
+    description: "Professional USB mic with customizable RGB lighting, four polar patterns, and tap-to-mute",
+    fullDescription: "Let's be clear: this microphone doesn't just capture sound, it captures attention. If the man in your life is still using the scratchy headset mic from 2012, this is the upgrade he desperately needs. This USB condenser mic makes his voice sound rich, professional, and entirely worthy of a podcast deal. The best part? The aesthetics are absolutely elite. The Radiant RGB lighting is fully customizable, turning the mic into a centerpiece for his stream or YouTube channel. Functionally, it's packed: it features four selectable polar patterns (so whether he's doing a solo stream or a two-person interview, it handles it all), an internal pop filter to stop those pesky 'plosive' sounds, and an anti-vibration shock mount to make sure his desk slamming rage-quit doesn't get picked up on the recording. Plus, the tap-to-mute sensor on top is genius—just a light touch, and the RGB lights immediately turn off, giving him a crystal-clear, visible cue that he's safely muted. (Amazon Stats: A stellar 4.7 out of 5 stars from over 17,500 ratings, and an 'Amazon's Choice' for good reason!)",
+    price: 169.08,
+    affiliateLink: "https://amzn.to/3JdDy6a",
+    category: "Audio & Recording",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "innoview-portable-monitor",
+    title: "InnoView Portable Monitor 15.6\" 1080P",
+    description: "Ultra-slim portable Full HD monitor with USB-C, built-in stand, and protective sleeve",
+    fullDescription: "We all know him: the man who starts working from a café, a hotel balcony, or a train, only to immediately miss his two giant home monitors. This is the mobile office solution he's been dreaming of. This ultra-slim, 15.6\" Full HD (1080P) portable monitor is designed to slip right into a backpack—it's thin and light enough that he'll barely notice the extra weight, but he'll absolutely notice the massive boost to his screen real estate. It's the perfect travel companion for the digital nomad, allowing him to take his high-efficiency, multi-tasking workspace across the world. Whether he's crunching spreadsheets, editing video, or just gaming on his PS5 or Switch while on a trip, the single-cable USB-C connection makes it true plug-and-play. No bulky power bricks needed! Plus, it has a brilliant built-in 90° adjustable stand and comes with a protective sleeve, so it's ready for business the moment it comes out of the bag. Give him the power to work from anywhere without losing an inch of productivity. (Amazon Stats: A solid 4.4 out of 5 stars from over 5,100 ratings, and an 'Amazon's Choice' with 500+ bought in the past month.)",
+    price: 109.00,
+    affiliateLink: "https://amzn.to/3IPwXyR",
+    category: "Office & Productivity",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "house-of-marley-headphones",
+    title: "House of Marley Positive Vibration Frequency: Over-Ear Wireless Headphones",
+    description: "Eco-friendly wireless headphones with 40mm drivers, 34-hour battery, and Rasta design",
+    fullDescription: "I actually bought these for my man's birthday this year, and he is obsessed! He's a tech-savvy guy and a musician, so these headphones really had to deliver—and they hit all the right notes. This is the perfect blend of killer sound and unique, conscious style. With powerful 40mm Hi-Definition drivers, they push out the rich, punchy bass and crisp highs that audiophiles (and musicians!) demand, making everything from mixing tracks to zoning out to a podcast sound fantastic. What truly makes them stand out is the look: the Rasta colorway and design incorporate eco-friendly materials like FSC® certified wood and recyclable aluminum, giving them an authentic, head-turning vibe. He can forget the charger for a long time, too—they boast up to 34 hours of playtime and feature Quick Charge Technology, meaning a quick 15-minute plug-in gets him 4 hours of listening. Get him the pair he'll actually be excited to wear. (Amazon Stats: 'Amazon's Choice' for 'marley bluetooth headphones'.)",
+    price: 79.98,
+    affiliateLink: "https://amzn.to/3JfhCrm",
+    category: "Audio & Recording",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "mackie-onyx16-mixer",
+    title: "Mackie Onyx16 16-channel Analog Mixer with Multitrack USB",
+    description: "Professional 16-channel mixer with Onyx preamps, British EQ, and 24-bit/96kHz USB interface",
+    fullDescription: "I know this gift is a guaranteed win because I gave my partner the Mackie Onyx 12 last Christmas, and it was, hands down, the best gift I could have gotten him. He's a serious musician with a true flare for musical engineering, and this is the piece of gear that truly levels up his home studio. For the man who understands that audio quality is non-negotiable, the Mackie Onyx is where professional analog sound meets modern digital convenience. This mixer is built to perform like a classic studio console but fits perfectly in a project studio. It features the legendary, Award-Winning Onyx Mic Preamps which provide an incredible 60dB of gain for ultra-clean, professional-grade recordings—crucial for capturing the nuance of instruments and vocals. But the real magic is the Perkins 'British Style' EQ. Inspired by classic mixing desks from the '60s and '70s, this EQ gives him sweeping control over frequencies, allowing him to dial in rich, musical tones that sound warm and polished, not brittle and digital. The best part? It's a complete recording powerhouse, functioning as a high-resolution 24-Bit / 96kHz Multitrack USB Interface. He can route every one of those 16 channels directly to his computer's recording software, giving him maximum flexibility in post-production. It's rugged, it sounds incredible, and it's the centerpiece his creative world has been waiting for.",
+    price: 1100.00,
+    affiliateLink: "https://amzn.to/3KStTT6",
+    category: "Audio & Recording",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "foldable-quadcopter-drone",
+    title: "Foldable WiFi Quadcopter Drone with Camera for Adults 4K HD",
+    description: "Beginner-friendly 4K drone with brushless motor, auto-hover, follow-me, and 60+ min flight time",
+    fullDescription: "This one is for fun, pure and simple, and it comes without the scary commitment of a thousand-dollar price tag. If your guy has always wanted to get into the drone game but doesn't want to break the bank for a hobby, this is the perfect entry point. This foldable quadcopter punches well above its weight class. It comes packed with features you usually only see on much pricier models: a 4K HD Camera for capturing crystal-clear aerial footage and the coveted Brushless Motor for superior flight stability and a much longer lifespan. It even includes the Auto-Hover Feature and Follow Me Capability—so it can track him on a bike ride or keep a steady shot while he focuses on the fun. The best feature, hands down, is the endurance. It comes with three batteries in the kit, giving him a total of over 60 minutes of combined flight time! This means less waiting around and more flying. It folds up small, fits right in a backpack, and gives him a massive 2650 FT Extended Control Range to truly explore his world from the sky. It's the ultimate 'just for fun' gadget that feels like a serious piece of tech. (Amazon Stats: A strong 4.7 out of 5 stars from over 180 ratings.)",
+    price: 98.00,
+    affiliateLink: "https://amzn.to/4hoqVly",
+    category: "Fun & Entertainment",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "sdfm-compressed-air-duster",
+    title: "SDFM Compressed Air Duster - 180,000 RPM (Brushless Motor)",
+    description: "Rechargeable electric air duster with 180K RPM motor and 3-gear adjustable airflow",
+    fullDescription: "I know I said this was a list of the coolest tech, but hear me out: sometimes, the greatest tech is the one that solves a persistent, annoying problem. This air duster is so good, my partner—the man who never makes a list—actually pointed it out and added it to his own! That alone should tell you everything you need to know. This isn't your average weak battery-powered cleaner. This thing is a powerhouse designed for the man who is serious about his gear. It features a high-performance Brushless Motor that can hit a mind-blowing 180,000 RPM. It delivers a continuous, powerful blast of air far stronger (and far cheaper in the long run) than endless cans of compressed air. He can stop wasting money on disposable cans that lose pressure after a few seconds. This gadget is rechargeable, has 3-Gear Adjustable Airflow for delicate electronics or deep cleaning a dusty PC rig, and comes with attachments for everything. It's perfect for his keyboard, the inside of his desktop, his car interior, or even quickly inflating an air bed. For the guy who loves his tools and hates dust, this is an absolutely brilliant, practical upgrade. (Amazon Stats: 'Amazon's Choice' with 50+ bought in the past month.)",
+    price: 58.55,
+    affiliateLink: "https://amzn.to/3KSgPx4",
+    category: "Tech Accessories",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "redragon-m913-gaming-mouse",
+    title: "Redragon M913 Impact Elite Wireless Gaming Mouse",
+    description: "16-button programmable gaming mouse with 16K DPI, wireless/wired dual mode, and 45-hour battery",
+    fullDescription: "If your partner is a gamer—especially one who plays complex titles like MMOs, MOBAs, or uses a lot of keyboard shortcuts for editing—this is the hidden gem of gaming mice. This isn't just a pointing device; it's a fully programmable command center for his hand. The highlight is the array of 12 fully programmable side buttons (for a total of 16 buttons on the mouse). This lets him map all his spells, abilities, or complex macros right to his thumb, giving him a massive competitive edge without having to fumble with the keyboard. And the best part? It's Wired/Wireless Dual Mode. It operates with a lightning-fast, lag-free 2.4Ghz wireless connection, but he can plug in with the USB-C cable for an instant recharge or a wired connection if preferred. With a 45+ hour battery life and a Pro Optical Sensor with up to 16,000 DPI, this mouse offers the premium features of a much more expensive brand, but at a fantastic budget price. It's the ultimate upgrade for his gaming setup and a serious tool for serious fun. (Amazon Stats: 100+ bought in the past month.)",
+    price: 44.99,
+    affiliateLink: "https://amzn.to/4nSnEwZ",
+    category: "Gaming",
+    guideSource: "Tech Gifts for Men"
+  },
+  {
+    id: "magcubic-projector-wifi6",
+    title: "Magcubic Projector with WiFi 6 and Bluetooth 5.4",
+    description: "Android 11 smart projector with 4K support, 180° rotation, auto keystone, and 130\" display",
+    fullDescription: "This is the perfect grand finale for your list—a truly 'cool tech' item that delivers maximum fun for minimal cost. This smart projector turns any blank wall into a massive entertainment screen, making it a fantastic gift for the guy who loves movies, gaming, or just having friends over. What sets this mini-projector apart at this price point are the smart features: Built-in Android 11 means it's a completely self-contained streaming device. He doesn't need to connect a laptop or a streaming stick—he can download apps like Netflix, Hulu, or Disney+ directly onto the projector and start watching immediately. The 180-Degree Rotation is a game-changer. He can set the projector on his nightstand and point the image straight up onto the ceiling for a movie night in bed, or project it perfectly onto a wall without needing a tripod. Auto Keystone automatically adjusts the picture to be a perfect rectangle, even if the projector is placed at an angle, eliminating setup hassle. With WiFi 6 for fast, lag-free streaming and Bluetooth 5.4 for easily connecting headphones or a speaker, it has all the modern tech he needs. With 4K support and a picture size of up to 130 inches, this is the gift that upgrades his bedroom, backyard, or garage into a private cinema. (Amazon Stats: 700+ bought in the past month with a 4.3-star rating from over 8,000 reviews.)",
+    price: 66.49,
+    affiliateLink: "https://amzn.to/47blnpx",
+    category: "Fun & Entertainment",
+    guideSource: "Tech Gifts for Men"
   }
 ];
