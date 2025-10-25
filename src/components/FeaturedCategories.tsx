@@ -10,7 +10,7 @@ const categories = [
     description: "Warmth, comfort, and all things hygge for the homebody in your life.",
     image: giftCollection1,
     tag: "For Home Lovers",
-    link: "/blog",
+    link: "/blog/cozy-pile",
   },
   {
     title: "The Luxury Pile",

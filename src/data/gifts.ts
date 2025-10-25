@@ -10,6 +10,108 @@ export interface Gift {
 }
 
 export const gifts: Gift[] = [
+  // From Cozy Pile
+  {
+    id: "dearfoams-slippers",
+    title: "Dearfoams Womens Hannah Chenille Knit Clog Slipper",
+    description: "Ultra-Soft Comfort Slippers",
+    fullDescription: "These chenille knit clog slippers are the ultimate in cozy comfort. Available in 8 colors, they feature a plush, soft exterior with a supportive indoor/outdoor sole. Perfect for those who appreciate comfort without sacrificing style.",
+    price: 60.75,
+    affiliateLink: "https://amzn.to/48M5nNj",
+    category: "Cozy Essentials",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "heated-scarf",
+    title: "Heated Scarf for Women, Rechargeable Electric Scarf",
+    description: "Warmth On-the-Go",
+    fullDescription: "This innovative heated scarf with 5000mAh battery provides up to 13 hours of warmth with 3 temperature levels. Available in 5 colors for both men and women. Currently has a $10 off coupon, making it an incredible value for staying warm this season.",
+    price: 49,
+    affiliateLink: "https://amzn.to/4oaMDMm",
+    category: "Cozy Essentials",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "bedsure-throw-blanket",
+    title: "Bedsure Fluffy Throw Blankets for Couch",
+    description: "Luxuriously Soft Blanket",
+    fullDescription: "Available in 7 colors and 4 sizes (price range $21-$45), these fluffy throw blankets are perfect for cozying up on the couch. Ultra-soft and plush, they add instant warmth and comfort to any living space.",
+    price: 33,
+    affiliateLink: "https://amzn.to/4nr9WAq",
+    category: "Cozy Essentials",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "witchcraft-wayward-girls",
+    title: "Witchcraft for Wayward Girls by Grady Hendrix",
+    description: "Captivating Read for Cozy Nights",
+    fullDescription: "I'm personally reading this novel and loving it! A perfect book to curl up with on a cozy evening. Grady Hendrix delivers another captivating story that's impossible to put down.",
+    price: 25,
+    affiliateLink: "https://amzn.to/3L5l9cm",
+    category: "Cozy Reading",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "house-of-cross",
+    title: "The House of Cross: An Alex Cross Thriller by James Patterson",
+    description: "Page-Turning Thriller",
+    fullDescription: "The latest Alex Cross thriller from James Patterson. Perfect for mystery lovers who enjoy getting lost in a gripping story while wrapped in their favorite blanket.",
+    price: 25.32,
+    affiliateLink: "https://amzn.to/49jokag",
+    category: "Cozy Reading",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "weighted-highland-cow",
+    title: "Mewaii 4 Lbs Weighted Stuffed Animals - Highland Cow Plush",
+    description: "ADORABLE Comfort Companion",
+    fullDescription: "This 23\" Highland Cow plush features heavy belly and limbs for a realistic, comforting hug. Super soft and fluffy, it's perfect for both kids and adults who love cuddly comfort. Features 1 sustainability element and has earned 4.6 out of 5 stars from 503 reviews.",
+    price: 51.91,
+    affiliateLink: "https://amzn.to/4qpc7XO",
+    category: "Cozy Comfort",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "outin-nano-espresso",
+    title: "OutIn Nano Portable Electric Espresso Machine",
+    description: "Coffee Anywhere",
+    fullDescription: "This portable coffee maker is perfect for camping, RV, hiking, or office use. Self-heating with USB-C, it works with ground coffee and NS capsules. Available in 5 colors. On sale for $204.99 (regularly $219).",
+    price: 204.99,
+    affiliateLink: "https://amzn.to/3L2TeKd",
+    category: "Cozy Beverages",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "shiatsu-neck-massager",
+    title: "ALLJOY Shiatsu Back and Neck Massager with Heat",
+    description: "Deep Tissue Relaxation",
+    fullDescription: "This electric deep tissue 3D kneading massage pillow works on shoulder, legs, foot, and body. With 4.4 stars and 4,359 reviews, it's a proven relaxation gift for women, men, mom, and dad.",
+    price: 54.99,
+    affiliateLink: "https://amzn.to/47uqIbV",
+    category: "Cozy Wellness",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "keenray-towel-warmer",
+    title: "Keenray Bucket Style Towel Warmers, Luxury Bucket Towel Warmer",
+    description: "The Ultimate in Cozy Luxury",
+    fullDescription: "#1 Best Seller in Towel Warmers! The ultimate in cozy - go from a warm bath to a warm towel! This large towel warmer fits up to two 40\"x70\" oversized bathrobes, blankets, or PJ's. Features auto shut-off for safety.",
+    price: 169.99,
+    affiliateLink: "https://amzn.to/3L5lmMG",
+    category: "Cozy Luxury",
+    guideSource: "Cozy Pile"
+  },
+  {
+    id: "wearable-heated-blanket",
+    title: "Kozyus Wearable Heated Blanket",
+    description: "Cozy Wearable Warmth",
+    fullDescription: "This innovative wearable blanket features arm and leg pockets for ultimate comfort and mobility. Available in 8 colors. Stay warm while still being able to move around the house freely.",
+    price: 67.99,
+    affiliateLink: "https://amzn.to/3LbN626",
+    category: "Cozy Essentials",
+    guideSource: "Cozy Pile"
+  },
+  
   // From Luxury Pile
   {
     id: "oura-ring-4",

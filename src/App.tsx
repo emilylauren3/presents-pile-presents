@@ -13,6 +13,7 @@ import AccessoriesTweenGirls from "./pages/blog/AccessoriesTweenGirls";
 import GiftsAllTweens from "./pages/blog/GiftsAllTweens";
 import LuxuryPile from "./pages/blog/LuxuryPile";
 import TechGiftsForMen from "./pages/blog/TechGiftsForMen";
+import CozyPile from "./pages/blog/CozyPile";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -34,6 +35,7 @@ const App = () => (
           <Route path="/blog/gifts-all-tweens" element={<GiftsAllTweens />} />
           <Route path="/blog/luxury-pile" element={<LuxuryPile />} />
           <Route path="/blog/tech-gifts-for-men" element={<TechGiftsForMen />} />
+          <Route path="/blog/cozy-pile" element={<CozyPile />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
