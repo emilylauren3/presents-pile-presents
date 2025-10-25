@@ -33,6 +33,12 @@ export const priceCategories: PriceCategory[] = [
     description: "Impressive gifts that make a statement"
   },
   {
+    name: "Under $300",
+    min: 200,
+    max: 300,
+    description: "High-end gifts for discerning tastes"
+  },
+  {
     name: "Premium Gifts $300+",
     min: 300,
     max: Infinity,
