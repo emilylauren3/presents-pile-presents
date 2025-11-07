@@ -20,11 +20,11 @@ const categories = [
     link: "/blog/luxury-pile",
   },
   {
-    title: "The Self-Care Pile",
-    description: "Indulgent treats for wellness enthusiasts who deserve a little pampering.",
+    title: "Top Holiday Toys",
+    description: "The best toys for kids ages 2-12 that will make Christmas morning magical.",
     image: giftCollection3,
-    tag: "Wellness & Beauty",
-    link: "/blog",
+    tag: "Holiday Gifts",
+    link: "/blog/top-holiday-toys",
   },
 ];
 

@@ -10,6 +10,257 @@ export interface Gift {
 }
 
 export const gifts: Gift[] = [
+  // From Top Holiday Toys
+  {
+    id: "furby-dj",
+    title: "Furby DJ Furby Interactive Toy",
+    description: "Rainbow Musical Plush Friend",
+    fullDescription: "This classic is back and better than ever! The DJ Furby is a super snuggly, electronic plush friend that's ready to dance. It features music, lights, motion, and speaks both English and Furbish. At 32 inches long, this rainbow buddy is the biggest, snuggliest version yet—perfect for ages 6 and up.",
+    price: 89,
+    affiliateLink: "https://amzn.to/47szx7k",
+    category: "Interactive Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "yoto-mini",
+    title: "Yoto Mini 2024 Edition Screen-Free Audio Player",
+    description: "Screen-Free Audio Adventure",
+    fullDescription: "This is the ultimate travel hack for little kids! The Yoto Mini is an all-in-one, screen-free Bluetooth audio player that lets kids listen to stories, music, and podcasts using physical cards. It's durable, portable, and a lifesaver for long car rides or quiet time. It can be used as a speaker or with headphones.",
+    price: 119,
+    affiliateLink: "https://amzn.to/3LuTZvG",
+    category: "Tech Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "xshot-blaster",
+    title: "ZURU X-Shot Insanity Motorized Rage Fire Blaster",
+    description: "Ultimate Dart Blaster",
+    fullDescription: "If you need a big-impact gift for a bigger kid, this is it. My son has the X-Shot Insanity Rage Fire and absolutely loves it! This huge motorized blaster features auto-feeding, a tripod, a scope, and comes with 72 darts. It's great for outdoor battles, and you can grab several attachments to level up the fun.",
+    price: 63.97,
+    affiliateLink: "https://amzn.to/4qHYgMl",
+    category: "Outdoor Play",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "jurassic-world-dino",
+    title: "Jurassic World Interactive Toy Dinosaur & Egg",
+    description: "Hatching Dino Adventure",
+    fullDescription: "This is the viral gift for the dinosaur lover! This super cool Jurassic World Interactive Dino hatches from its egg and has over 100 sounds and reactions. It's a captivating and cool gift that teaches kids to 'train' their own baby dino. Perfect for boys and girls aged 5 and up.",
+    price: 86.33,
+    affiliateLink: "https://amzn.to/3LO5WN2",
+    category: "Interactive Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "playdoh-barbie",
+    title: "Play-Doh Barbie Designer Fashion Show Set",
+    description: "Fashion Design Fun",
+    fullDescription: "A genius mix of classic Play-Doh fun and fashion! This set lets creative kids make custom doll clothes for Barbie using modeling compound and includes 21 fashion accessories. It's a great arts and crafts toy for girls and boys aged 5 and up.",
+    price: 49.99,
+    affiliateLink: "https://amzn.to/4nL5tIO",
+    category: "Arts & Crafts",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "playdoh-tmnt",
+    title: "Play-Doh Teenage Mutant Ninja Turtles Mutation Station Playset",
+    description: "TMNT Creative Play",
+    fullDescription: "Cowabunga! This is a perfect stocking stuffer or small gift for the TMNT fan. The Mutation Station lets kids squeeze, mold, and shape fun Play-Doh creations with a bendy Donnie Action Figure. A super affordable arts and crafts toy for boys and girls aged 4 and up.",
+    price: 24.99,
+    affiliateLink: "https://amzn.to/4qMSjOl",
+    category: "Arts & Crafts",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "ice-cream-truck",
+    title: "Our Generation Sweet Stop Ice Cream Truck Playset",
+    description: "Dream Playset Vehicle",
+    fullDescription: "For the ultimate dream gift! This massive Our Generation Ice Cream Truck is a pink vehicle playset packed with tiny, detailed play food accessories for 18-inch dolls. It brings endless hours of pretend play and imaginative storytelling for kids 3+ years.",
+    price: 199.99,
+    affiliateLink: "https://amzn.to/3XiQ5bQ",
+    category: "Pretend Play",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "led-copy-board",
+    title: "LED Copy Board Portable Tracing Light Box",
+    description: "Artist's Drawing Tool",
+    fullDescription: "Elevate your child's drawing game with this sleek LED Copy Board. This super thin light box is an A4 size drawing tool that makes tracing and sketching easier and more fun. It's perfect for kids who love art, drawing, or comic book design.",
+    price: 41.99,
+    affiliateLink: "https://amzn.to/4nHzucA",
+    category: "Arts & Crafts",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "art-tracing-projector",
+    title: "Discovery Kids Art Tracing Projector Kit",
+    description: "Learn to Draw Kit",
+    fullDescription: "A fantastic introduction to drawing! This Discovery Kids Projector Kit makes learning to draw simple and fun. It includes 32 stencils and 12 markers, making it easy for kids to project and trace images. It's portable and an Amazon's Choice for budding artists.",
+    price: 38.31,
+    affiliateLink: "https://amzn.to/3Xhbt1b",
+    category: "Arts & Crafts",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "magnetic-blocks",
+    title: "Magnetic Blocks - 210PCS Magnetic Building Block Set",
+    description: "STEM Building Fun",
+    fullDescription: "Trust me, you can never have enough of these! I've bought my kids three sets and will buy more. These 210-piece Magnetic Cubes are fun for all ages (4-12+) and are fantastic STEM stacking toys. They click together easily to build incredible constructions and even include a collectible doll for extra imaginative play.",
+    price: 89.98,
+    affiliateLink: "https://amzn.to/47uahgZ",
+    category: "Building Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "monster-high-doll",
+    title: "Monster High Skulltimate Secrets Doll (Frankie Stein)",
+    description: "Mystery Reveal Doll",
+    fullDescription: "The Monster High craze is back, and this Skulltimate Secrets Doll is amazing. Kids get a Frankie Stein doll and 19+ glam surprises like doll clothes hidden inside a reveal closet. A fantastic gift for Monster High fans who love mystery and imaginative play.",
+    price: 39.98,
+    affiliateLink: "https://amzn.to/480f2Ps",
+    category: "Dolls & Figures",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "harry-potter-bitzee",
+    title: "Wizarding World Harry Potter Bitzee Interactive Toy",
+    description: "Digital Pet Magic",
+    fullDescription: "It's Tamagotchi meets Hogwarts! This Harry Potter Bitzee Interactive Toy is a digital pet kids can care for that reacts to swipes, tilts, and taps. It features 20 characters from the Wizarding World inside, making it a cool, screen-free tech toy for fans.",
+    price: 53.34,
+    affiliateLink: "https://amzn.to/4hPtXPY",
+    category: "Tech Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "spidey-pirate-ship",
+    title: "Marvel Spidey and His Amazing Friends Bubble Pirate Ship",
+    description: "Water-Webs Adventure",
+    fullDescription: "A fun playset perfect for the younger Marvel fan! This Spidey and His Amazing Friends Bubble Pirate Ship boat features 'Water-Webs' and comes with a 3-inch action figure. It's a great imaginative toy for kids 3+ years.",
+    price: 69.51,
+    affiliateLink: "https://amzn.to/47EEz0J",
+    category: "Action Figures",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "lego-one-piece",
+    title: "LEGO ONE PIECE Buggy The Clown's Circus Tent",
+    description: "Anime Building Set",
+    fullDescription: "Another great set for the anime crowd! This LEGO ONE PIECE Circus Tent is a creative and unique building toy featuring the memorable villain, Buggy the Clown. It includes 4 toy figures and is perfect for building, display, and pretend play for kids ages 8+.",
+    price: 50.92,
+    affiliateLink: "https://amzn.to/47Jc9kF",
+    category: "Building Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "goosebumps-game",
+    title: "Goosebumps The Game Board Game",
+    description: "Spooky Family Game Night",
+    fullDescription: "If your kids love the scary books, they'll love this! Goosebumps The Game is a fun, spooky monster board game perfect for family game night or sleepovers. It's designed for ages 8 and up and captures all the scary fun of the classic series.",
+    price: 30.14,
+    affiliateLink: "https://amzn.to/3WKwS2K",
+    category: "Games",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "electric-wiggle-car",
+    title: "FanttikRide N7 Pro Electric Wiggle Car",
+    description: "2-in-1 Ride-On Fun",
+    fullDescription: "This one is high on my daughter's wish list! The Electric Wiggle Car is a 2-in-1 swing car and ride-on toy with a rechargeable battery and two-speed settings. It features anti-rollover safety, flashing wheels, and Bluetooth for music. It supports riders up to 150 lbs, making it a fantastic outdoor toy for ages 3 and up.",
+    price: 209.99,
+    affiliateLink: "https://amzn.to/43MEXaU",
+    category: "Ride-Ons",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "ride-on-tractor",
+    title: "Costzon Ride on Tractor w/ Trailer (12V)",
+    description: "Working Tractor Adventure",
+    fullDescription: "For the kid who loves to 'work' outside! This 12V Ride on Tractor includes a working trailer, remote control for parent safety, and a 3-gear shift. It features LED lights, a safety belt, and even a USB audio input for tunes. A highly-rated, large electric vehicle toy for long-lasting fun.",
+    price: 229.99,
+    affiliateLink: "https://amzn.to/47MeGL5",
+    category: "Ride-Ons",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "grocery-store",
+    title: "Melissa & Doug Fresh Mart Grocery Store",
+    description: "Wooden Supermarket Play",
+    fullDescription: "We got my daughter a toy store last year, and it has brought so much laughter and fun to our whole family! This Melissa & Doug Fresh Mart is a beautiful, freestanding wooden supermarket that encourages endless role-playing and imaginative scenarios for toddlers and kids ages 3+.",
+    price: 359.99,
+    affiliateLink: "https://amzn.to/47M8AdO",
+    category: "Pretend Play",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "camping-set",
+    title: "SMILESSKIDDO Kids Camping Set (41 PCS)",
+    description: "Indoor/Outdoor Adventure",
+    fullDescription: "Bring the great outdoors inside! This 41-piece Pretend Camping Set includes a pop-up tent perfect for indoor and outdoor play. It's a fantastic, affordable toy that encourages creative play and adventure for toddlers and kids ages 3-5.",
+    price: 42.49,
+    affiliateLink: "https://amzn.to/4oU9DPx",
+    category: "Pretend Play",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "magic-workshop",
+    title: "Little Tikes Magic Workshop",
+    description: "Imaginative Magic Play",
+    fullDescription: "This is a fun, immersive toy that sparks imagination! The Little Tikes Magic Workshop is a multicolor playset that lets kids pretend to be little magicians and inventors. It offers hours of engaging play and is a great Amazon's Choice pick.",
+    price: 139.97,
+    affiliateLink: "https://amzn.to/3LtUWnZ",
+    category: "Pretend Play",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "nerf-gelfire",
+    title: "Nerf Pro Gelfire Dual Wield Pack",
+    description: "Gel Blaster Action",
+    fullDescription: "Gel blasters are a huge hit in our house, and this set is awesome because it comes with two! The Nerf Pro Gelfire Dual Wield Pack includes two blasters, two hoppers, and 5,000 Gelfire Rounds. These are great for safe, outdoor fun (Note: This is for Ages 14 & Up due to the power, so maybe one for the older crowd!).",
+    price: 44.99,
+    affiliateLink: "https://amzn.to/47vgNEf",
+    category: "Outdoor Play",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "eilik-robot",
+    title: "Eilik Desktop Robot Pet (Pink Version)",
+    description: "Interactive Robot Companion",
+    fullDescription: "The coolest desk accessory! Eilik is an adorable, highly interactive desktop robot pet that makes a perfect companion. It's great for both kids and teens and has awesome expressions and reactions. A unique and fun tech gift for home or a workspace.",
+    price: 199.99,
+    affiliateLink: "https://amzn.to/3LwSIUQ",
+    category: "Tech Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "laser-tag-set",
+    title: "Rechargeable Laser Tag Set for Kids, Teens & Adults",
+    description: "Group Action Game",
+    fullDescription: "Get ready for action! This Rechargeable Laser Tag Set is a huge hit, selling over 600 sets last month. It includes guns and vest sensors and provides amazing group activity for boys and girls age 8+. It's the perfect way to burn off energy outside!",
+    price: 119.69,
+    affiliateLink: "https://amzn.to/4qOLlIC",
+    category: "Outdoor Play",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "wall-crawler-robot",
+    title: "HEX BOTS Wall Crawler Gecko Robot",
+    description: "Wall-Climbing RC Robot",
+    fullDescription: "I've seen this one everywhere! This HEX BOTS Wall Crawler Gecko is a rechargeable remote control robot that can climb right up walls! It's super fun and a guaranteed crowd-pleaser. I might buy three to avoid sibling wars! Perfect for boys and girls ages 4 and up.",
+    price: 32.69,
+    affiliateLink: "https://amzn.to/4hOduLP",
+    category: "Tech Toys",
+    guideSource: "Top Holiday Toys"
+  },
+  {
+    id: "nintendo-switch-2",
+    title: "Nintendo Switch™ 2 + Pokémon™ Legends: Z-A Bundle",
+    description: "Ultimate Gaming Bundle",
+    fullDescription: "This is the holy grail gift! My son has underlined this on his list about 10 times. The Nintendo Switch 2 Bundle is the latest and greatest console and comes with the highly anticipated Pokémon Legends: Z-A. It's the #1 Best Seller for a reason—the perfect tech upgrade for the serious gamer in your life.",
+    price: 699.99,
+    affiliateLink: "https://amzn.to/498wPVO",
+    category: "Gaming",
+    guideSource: "Top Holiday Toys"
+  },
   // From Cozy Pile
   {
     id: "dearfoams-slippers",
