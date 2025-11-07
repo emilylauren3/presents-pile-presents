@@ -2,7 +2,7 @@ import { ArrowRight } from "lucide-react";
 import { Link } from "react-router-dom";
 import giftCollection1 from "@/assets/gift-collection-1.jpg";
 import giftCollection2 from "@/assets/gift-collection-2.jpg";
-import giftCollection3 from "@/assets/gift-collection-3.jpg";
+import giftCollection3 from "@/assets/holiday-toys-collection.jpg";
 
 const categories = [
   {
