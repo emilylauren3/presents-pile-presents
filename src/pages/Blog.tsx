@@ -8,16 +8,21 @@ import { ArrowRight, Calendar, User } from "lucide-react";
 const Blog = () => {
   // Featured post (most recent)
   const featuredPost = {
-    title: "Gifts for the Man Who Has Everything? 10 Must-Have Tech Gadgets",
-    description: "Shopping for the man who has everything? Discover our curated list of must-have tech gadgets and high-tech gear that will actually impress him.",
-    link: "/blog/tech-gifts-for-men",
-    date: "October 15, 2025",
+    title: "🎄 Top Toy Picks For the Holiday Season",
+    description: "Christmas is just around the corner! Discover our curated list of 25+ must-have toys for kids ages 2-12 that will make Christmas morning magical.",
+    link: "/blog/top-holiday-toys",
+    date: "November 7, 2025",
     author: "The Present Pile",
-    excerpt: "So, you're on the hunt for the perfect gift for that special man (or men!) in your life—the one who seems to already have everything. Whether he's a work-from-home warrior, a road-tripping guru, or a guy who gets genuinely excited about the latest tech, we know the struggle is real when looking for unique gifts for the man who has everything. Let's be honest: Shopping for these independent, tech-savvy men is a full-contact sport. My own man is the worst; if he wants it, he usually just goes and gets it! That's why I'm here to help you find the absolute best tech gifts for him this year. Don't worry, I decided to put on my detective hat. I've been secretly paying attention, meticulously watching, and doing the deep-dive research to compile the ultimate list. The items here aren't just things my guy would love—they're the must-have gadgets and high-tech gear for men that I'm betting yours will, too. Take a look below at our extensive and (seriously) curated Tech Gift Guide for Men 2025 dedicated to buying the perfect piece of tech for the amazing men in your life!"
+    excerpt: "Can you believe it? It's hard to wrap our heads around, but Christmas is officially just around the corner! Soon the halls will be decked, mistletoe hung, and trees adorned with twinkling lights and those precious ornaments your kids made in kindergarten (my first grader is already planning her next masterpiece!). The holiday magic is about to be in full swing. I know what you're thinking, though: that perfect gift shopping you swore you'd tackle back in September is still sitting squarely at the top of your to-do list, staring you down. No judgment over here, friend! I'm right there with you. This year, I'm helping you skip the stress and head straight to the good stuff. I've curated a mega list of 25+ items that are guaranteed to have the kids in your life screaming with joy Christmas morning. Everything on this list is geared toward the younger crew, ages 2–12."
   };
 
   // All blog posts for sidebar
   const allPosts = [
+    {
+      title: "🎄 Top Toy Picks For the Holiday Season",
+      link: "/blog/top-holiday-toys",
+      date: "November 7, 2025"
+    },
     {
       title: "Gifts for the Man Who Has Everything? 10 Must-Have Tech Gadgets",
       link: "/blog/tech-gifts-for-men",
@@ -52,6 +57,12 @@ const Blog = () => {
 
   // Gift guide blocks (displayed below featured post)
   const guides = [
+    {
+      title: "🎄 Top Toy Picks For the Holiday Season",
+      description: "25+ must-have toys and gifts for kids ages 2-12 that will make Christmas morning magical.",
+      link: "/blog/top-holiday-toys",
+      price: "$24.99 - $699.99"
+    },
     {
       title: "Gifts for the Man Who Has Everything? 10 Must-Have Tech Gadgets",
       description: "10 must-have tech gadgets and high-tech gear that will actually impress the man who has everything.",
