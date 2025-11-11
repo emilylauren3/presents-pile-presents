@@ -107,7 +107,7 @@ const StockingStuffersForHer = () => {
             <Gift className="h-6 w-6 text-primary" />
             <span className="caption text-primary">Gift Guide</span>
           </div>
-          <h1 className="display-lg mb-6">💅 Stocking Stuffers for Her</h1>
+          <h1 className="display-lg mb-6">Stocking Stuffers for Her</h1>
           <p className="body-lg text-muted-foreground">
             14 trendy beauty, skincare, and lifestyle essentials perfect for the special women in your life—all under $25!
           </p>
