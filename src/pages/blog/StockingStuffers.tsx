@@ -4,36 +4,35 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Button } from "@/components/ui/button";
 
 const StockingStuffers = () => {
-  // Placeholder gift lists - to be populated with actual content
   const giftLists = [
     {
-      title: "Gift List 1",
-      description: "Description for the first gift list category",
-      link: "/blog/stocking-stuffers-list-1",
+      title: "💅 Stocking Stuffers for Her",
+      description: "14 trendy beauty, skincare, and lifestyle essentials perfect for the special women in your life",
+      link: "/blog/stocking-stuffers-for-her",
       price: "Under $25"
     },
     {
-      title: "Gift List 2",
-      description: "Description for the second gift list category",
-      link: "/blog/stocking-stuffers-list-2",
+      title: "Stocking Stuffers for Him",
+      description: "17 practical gadgets, grooming essentials, and fun treats for the guys on your list",
+      link: "/blog/stocking-stuffers-for-him",
       price: "Under $25"
     },
     {
-      title: "Gift List 3",
-      description: "Description for the third gift list category",
-      link: "/blog/stocking-stuffers-list-3",
+      title: "Stocking Stuffers Teen/Tween Girls",
+      description: "18 viral must-haves from beauty essentials to collectibles that tween and teen girls will love",
+      link: "/blog/stocking-stuffers-teen-tween-girls",
       price: "Under $25"
     },
     {
-      title: "Gift List 4",
-      description: "Description for the fourth gift list category",
-      link: "/blog/stocking-stuffers-list-4",
+      title: "Boys Stocking Stuffers: Teen/Tween Edition",
+      description: "17 gaming gear, fidget toys, and collectibles perfect for tween and teen boys",
+      link: "/blog/stocking-stuffers-teen-tween-boys",
       price: "Under $25"
     },
     {
-      title: "Gift List 5",
-      description: "Description for the fifth gift list category",
-      link: "/blog/stocking-stuffers-list-5",
+      title: "Stocking Stuffers for Kids",
+      description: "21 fun toys, books, and treats that will delight younger children on Christmas morning",
+      link: "/blog/stocking-stuffers-for-kids",
       price: "Under $25"
     }
   ];

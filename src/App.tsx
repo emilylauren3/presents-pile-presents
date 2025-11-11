@@ -16,6 +16,11 @@ import TechGiftsForMen from "./pages/blog/TechGiftsForMen";
 import CozyPile from "./pages/blog/CozyPile";
 import TopHolidayToys from "./pages/blog/TopHolidayToys";
 import StockingStuffers from "./pages/blog/StockingStuffers";
+import StockingStuffersForHer from "./pages/blog/StockingStuffersForHer";
+import StockingStuffersForHim from "./pages/blog/StockingStuffersForHim";
+import StockingStuffersTeenTweenGirls from "./pages/blog/StockingStuffersTeenTweenGirls";
+import StockingStuffersTeenTweenBoys from "./pages/blog/StockingStuffersTeenTweenBoys";
+import StockingStuffersForKids from "./pages/blog/StockingStuffersForKids";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -40,6 +45,11 @@ const App = () => (
           <Route path="/blog/cozy-pile" element={<CozyPile />} />
           <Route path="/blog/top-holiday-toys" element={<TopHolidayToys />} />
           <Route path="/blog/stocking-stuffers" element={<StockingStuffers />} />
+          <Route path="/blog/stocking-stuffers-for-her" element={<StockingStuffersForHer />} />
+          <Route path="/blog/stocking-stuffers-for-him" element={<StockingStuffersForHim />} />
+          <Route path="/blog/stocking-stuffers-teen-tween-girls" element={<StockingStuffersTeenTweenGirls />} />
+          <Route path="/blog/stocking-stuffers-teen-tween-boys" element={<StockingStuffersTeenTweenBoys />} />
+          <Route path="/blog/stocking-stuffers-for-kids" element={<StockingStuffersForKids />} />
           {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
           <Route path="*" element={<NotFound />} />
         </Routes>
