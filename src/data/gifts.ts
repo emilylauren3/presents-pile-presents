@@ -859,5 +859,880 @@ export const gifts: Gift[] = [
     affiliateLink: "https://amzn.to/47blnpx",
     category: "Fun & Entertainment",
     guideSource: "Tech Gifts for Men"
+  },
+  // Stocking Stuffers for Her
+  {
+    id: "christmas-earrings-reindeer",
+    title: "Christmas Earrings 14K Cute Small Animal CZ Reindeer Studs",
+    description: "Festive reindeer studs with cubic zirconia",
+    fullDescription: "A little festive sparkle! These adorable reindeer studs feature tiny cubic zirconia for a subtle, cute shine. The perfect piece of jewelry to celebrate the season.",
+    price: 13.00,
+    affiliateLink: "https://amzn.to/47PBjhw",
+    category: "Beauty & Accessories",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "cozy-manor-skincare-headband",
+    title: "Cozy Manor Skincare Headband and Wristband Set (Black)",
+    description: "Spa-style headband and wristband set",
+    fullDescription: "Upgrade her cleansing ritual! This soft, spa-style set keeps hair dry and prevents water from dripping down her arms—a super cute and practical luxury.",
+    price: 9.99,
+    affiliateLink: "https://amzn.to/3JVqfaP",
+    category: "Beauty & Skincare",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "elf-blush-tint-cherry",
+    title: "e.l.f. Sheer For It Blush Tint (Cherry Cola)",
+    description: "Versatile lip and cheek tint",
+    fullDescription: "A versatile beauty must-have! This long-lasting sheer tint works beautifully on both lips and cheeks, giving her a natural, effortless flush. It's a great shade for any season!",
+    price: 7.96,
+    affiliateLink: "https://amzn.to/4qMVhSR",
+    category: "Beauty & Makeup",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "kitsch-gold-claw-clip",
+    title: "Kitsch Gold Metal Claw Clips, Large Hair Clips (1 Piece)",
+    description: "Elegant gold claw clip",
+    fullDescription: "The ultimate hair accessory! This elegant, durable gold claw clip is a trendy way to hold hair securely while adding a chic, polished look to any outfit.",
+    price: 10.99,
+    affiliateLink: "https://amzn.to/4oEbM2c",
+    category: "Beauty & Accessories",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "garnier-charcoal-mask",
+    title: "Garnier Pure Active Charcoal Peel-off Mask Cleanser (50 mL)",
+    description: "Charcoal peel-off face mask",
+    fullDescription: "A little self-care treat! This charcoal peel-off mask is perfect for a relaxing night in, helping to deeply clean and clarify oily or combination skin.",
+    price: 9.96,
+    affiliateLink: "https://amzn.to/3Xr7CP2",
+    category: "Beauty & Skincare",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "grace-stella-eye-masks",
+    title: "grace & stella Under Eye Masks With Retinol (6 Pairs)",
+    description: "Retinol under eye gel patches",
+    fullDescription: "Help her look refreshed after the holiday hustle! These revitalizing gel patches use Retinol to help with the appearance of dark circles and wrinkles. A luxurious little indulgence.",
+    price: 13.95,
+    affiliateLink: "https://amzn.to/49JNoYb",
+    category: "Beauty & Skincare",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "viola-house-brow-wax",
+    title: "VIOLA HOUSE Brow Styling Wax, Eyebrow Soap Kit",
+    description: "Long-lasting brow styling wax",
+    fullDescription: "Achieve the trendy \"feathery\" brow look! This long-lasting, waterproof styling wax is a great addition to her makeup routine for sculpted, perfectly set brows that last all day.",
+    price: 9.99,
+    affiliateLink: "https://amzn.to/43RyCuQ",
+    category: "Beauty & Makeup",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "schick-dermaplaning-tool",
+    title: "Schick Hydro Silk Touch-Up Dermaplaning Tool (3ct)",
+    description: "Multi-purpose dermaplaning tool",
+    fullDescription: "A beauty secret weapon! This multi-purpose tool is great for gentle dermaplaning and quickly touching up facial hair. A highly-rated, essential grooming tool.",
+    price: 7.47,
+    affiliateLink: "https://amzn.to/3LyNUOP",
+    category: "Beauty & Grooming",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "maybelline-great-lash",
+    title: "Maybelline New York Great Lash Big Washable Mascara (Blackest Black)",
+    description: "Classic volume mascara",
+    fullDescription: "A timeless classic! This iconic mascara is a staple in makeup bags everywhere, delivering reliable volume and definition without clumping. You can't go wrong with this one.",
+    price: 8.98,
+    affiliateLink: "https://amzn.to/47BOST2",
+    category: "Beauty & Makeup",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "maybelline-falsies-mascara",
+    title: "Maybelline New York The Falsies Volum' Express Washable Mascara (Very Black)",
+    description: "Dramatic volume mascara",
+    fullDescription: "For dramatic volume! This formula gives a striking, full-lash look without the need for falsies, perfect for bold holiday makeup looks.",
+    price: 8.98,
+    affiliateLink: "https://amzn.to/485aveC",
+    category: "Beauty & Makeup",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "eyelash-separator-comb",
+    title: "Eyelash Separator Eyelash Comb (Naked Pink)",
+    description: "Mascara comb for lash separation",
+    fullDescription: "The tool she didn't know she needed! This mascara comb helps separate lashes after application, eliminating clumps for a flawless, fanned-out finish.",
+    price: 7.99,
+    affiliateLink: "https://amzn.to/43mUi1L",
+    category: "Beauty & Tools",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "ring-light-selfie",
+    title: "Ring Light for Laptop and Phone, 5\" Selfie Ring Light",
+    description: "Portable selfie ring light",
+    fullDescription: "Perfect for the content creator or remote worker! This ring light provides great lighting for video calls, selfies, and streams, ensuring she always looks her best on camera.",
+    price: 26.99,
+    affiliateLink: "https://amzn.to/43Wtrtz",
+    category: "Tech Accessories",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "terrys-orange-toffee",
+    title: "Terry's Orange - Milk Chocolatey Confection with Toffee Bits",
+    description: "Chocolate orange with toffee",
+    fullDescription: "A delicious twist on a classic! The familiar chocolate orange flavor is made even better with crunchy toffee bits mixed in. A festive indulgence she'll love.",
+    price: 6.49,
+    affiliateLink: "https://amzn.to/3Lu8IXT",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  {
+    id: "luxury-coffee-socks",
+    title: "Luxury Coffee Socks with Coffee Cup Gift Packaging",
+    description: "Cozy socks in coffee cup packaging",
+    fullDescription: "The ultimate cozy duo! These fun, soft socks come charmingly packaged inside a coffee cup, making them a cute, ready-to-gift stuffer for any coffee lover.",
+    price: 9.99,
+    affiliateLink: "https://amzn.to/47xqXUS",
+    category: "Cozy Essentials",
+    guideSource: "Stocking Stuffers for Her"
+  },
+  // Stocking Stuffers for Him
+  {
+    id: "lacrosse-massage-ball",
+    title: "Hard Lacrosse Ball Massage Ball Therapy (2 Pack) (Purple)",
+    description: "Deep tissue massage balls",
+    fullDescription: "For the athlete or the desk worker! These firm massage balls are perfect for deep tissue relief and working out knots in the back, neck, or feet. Practical pain relief in a stocking!",
+    price: 10.43,
+    affiliateLink: "https://amzn.to/4p3ey0z",
+    category: "Fitness & Wellness",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "hand-grip-strengthener",
+    title: "NIYIKOW 2 Pack Hand Grip Strengthener, Adjustable Resistance 22-132Lbs",
+    description: "Adjustable hand grip trainer",
+    fullDescription: "Give him a strength upgrade! This adjustable grip trainer is a great way to boost forearm strength for sports, gym training, or just keeping hands strong while watching TV.",
+    price: 14.99,
+    affiliateLink: "https://amzn.to/4ovN7N9",
+    category: "Fitness & Wellness",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "multitool-carabiner",
+    title: "Multitool Carabiner with Pocket Knife, 6-in-1 (Blue)",
+    description: "EDC multitool with knife",
+    fullDescription: "A cool gadget for his everyday carry (EDC)! This handy multitool clips right onto a belt loop and includes a knife, bottle opener, and screwdriver—perfect for the outdoor enthusiast or DIYer.",
+    price: 16.88,
+    affiliateLink: "https://amzn.to/4ovN8kb",
+    category: "Tools & Gadgets",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "christmas-sudoku-book",
+    title: "Christmas Sudoku: 50 Sudoku Puzzles with Coloring Interior Design",
+    description: "Festive puzzle book",
+    fullDescription: "A fun way to unwind! This puzzle book offers 50 Sudoku challenges with a festive coloring interior, making it the perfect low-key activity for post-Christmas dinner relaxation.",
+    price: 9.75,
+    affiliateLink: "https://amzn.to/4hR752B",
+    category: "Games & Puzzles",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "bulliant-running-socks",
+    title: "BULLIANT Men Running Socks 6Pairs-Ankle Athletic Socks",
+    description: "Athletic ankle socks 6-pack",
+    fullDescription: "Socks are a classic for a reason! This 6-pack of cushioned, moisture-wicking ankle socks is a practical and comfortable upgrade for his gym bag or everyday walking shoes.",
+    price: 19.99,
+    affiliateLink: "https://amzn.to/486gj7D",
+    category: "Clothing & Accessories",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "big-turk-chocolate",
+    title: "Big Turk Chocolate Bites, 180gm Pouch",
+    description: "Jelly and chocolate bites",
+    fullDescription: "A classic, uniquely Canadian treat! These jelly and chocolate bites are a delicious, nostalgic indulgence that is perfectly sized for stuffing in a stocking (and snacking later!).",
+    price: 6.18,
+    affiliateLink: "https://amzn.to/3LBVI2g",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "viking-beard-comb-set",
+    title: "Viking Revolution Beard Comb & Beard Brush Set",
+    description: "Boar bristle brush and wood comb",
+    fullDescription: "For the man who takes pride in his beard! This handsome set includes a natural boar bristle brush and a dual-action wood comb, complete with a velvet pouch for easy travel.",
+    price: 13.99,
+    affiliateLink: "https://amzn.to/4oATFu5",
+    category: "Grooming",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "viking-solid-cologne",
+    title: "Viking Revolution - Solid Cologne for Men (4 Pack)",
+    description: "Portable solid cologne set",
+    fullDescription: "A modern take on fragrance! This 4-pack of solid colognes features great scents (Cedar Wood, Sandalwood) that are easy to apply, mess-free, and perfect for his travel kit.",
+    price: 13.99,
+    affiliateLink: "https://amzn.to/47UOuy0",
+    category: "Grooming",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "drum-sticks-wood",
+    title: "Drum Sticks for Drums, Natural Solid Wood (1 Pair, 5A)",
+    description: "Quality wood drumsticks",
+    fullDescription: "If he has a drum set (or just a desk to tap on!), a fresh pair of quality wood drumsticks is always appreciated. Great for practice, performance, or just drumming out some stress.",
+    price: 9.99,
+    affiliateLink: "https://amzn.to/4oCqGpN",
+    category: "Music & Hobbies",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "needoh-gumdrop",
+    title: "Schylling NeeDoh - Gumdrop - Soft Sensory Fidget Toy",
+    description: "Squishy stress relief toy",
+    fullDescription: "Yes, adults need NeeDoh too! This gumdrop-shaped squishy ball is a fun, non-distracting way to relieve stress and keep hands busy, bringing some playful comfort to his day.",
+    price: 14.65,
+    affiliateLink: "https://amzn.to/43YUvbF",
+    category: "Fidget & Stress Relief",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "led-flashlight-gloves",
+    title: "LED Flashlight Gloves, Finger Lights",
+    description: "Work gloves with LED lights",
+    fullDescription: "A brilliant, practical gadget! These gloves have built-in LED lights on the fingers, making them indispensable for working on cars, DIY projects, or fixing things in the dark.",
+    price: 15.99,
+    affiliateLink: "https://amzn.to/4qRAJsz",
+    category: "Tools & Gadgets",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "furtalk-knit-beanie",
+    title: "FURTALK Knit Beanie Hat (Brown)",
+    description: "Cozy winter beanie",
+    fullDescription: "A cozy winter staple! This soft, warm knit beanie is a timeless accessory that works for everyone and comes in a great neutral color to match any winter coat.",
+    price: 13.99,
+    affiliateLink: "https://amzn.to/4qQjnfs",
+    category: "Clothing & Accessories",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "nivea-men-lip-balm",
+    title: "NIVEA MEN Active Lip Balm, (2 X 4.8g)",
+    description: "Hydrating men's lip balm",
+    fullDescription: "Keep his lips protected! This 2-pack of NIVEA MEN lip balm provides 24-hour hydration with a formula designed specifically for men—a highly practical winter essential.",
+    price: 4.98,
+    affiliateLink: "https://amzn.to/43pQIE6",
+    category: "Grooming",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "terrys-dark-orange",
+    title: "Terry's Orange - Dark - Orange Flavored Dark Chocolate Confection",
+    description: "Dark chocolate orange",
+    fullDescription: "For the dark chocolate connoisseur! This twist on the classic chocolate orange uses rich dark chocolate, offering a deeper, more sophisticated holiday treat.",
+    price: 8.99,
+    affiliateLink: "https://amzn.to/4hWx6xm",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "falkor-dragon-blocks",
+    title: "Falkor Luck Dragon Block Set (671PCS)",
+    description: "Collectible building set",
+    fullDescription: "A fun, challenging build! This detailed block set of the iconic Luck Dragon is a great collector's item and a relaxing project that's perfect for a long winter afternoon.",
+    price: 17.99,
+    affiliateLink: "https://amzn.to/3JD5Mrj",
+    category: "Collectibles & Building",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "santas-claws-scratcher",
+    title: "(2-Pack) Extendable Back Scratcher, Santa's Claws Telescopic",
+    description: "Humorous back scratcher",
+    fullDescription: "Funny and totally useful! Packaged in a fun \"Santa's Claws\" box, this extendable back scratcher is the perfect humorous-yet-practical filler that always gets a laugh.",
+    price: 7.99,
+    affiliateLink: "https://amzn.to/3Lu7QT7",
+    category: "Humor & Novelty",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  {
+    id: "franks-redhot-seasoning",
+    title: "Frank's RedHot, Original Seasoning, 132g",
+    description: "Spicy seasoning shaker",
+    fullDescription: "For the one who likes it hot! This shaker of Frank's seasoning lets him put that signature spicy flavor on anything from popcorn to eggs. A fun culinary stocking addition.",
+    price: 5.49,
+    affiliateLink: "https://amzn.to/3Xr74bW",
+    category: "Food & Kitchen",
+    guideSource: "Stocking Stuffers for Him"
+  },
+  // Stocking Stuffers Teen/Tween Girls
+  {
+    id: "squishmallows-small-8",
+    title: "SQUISHMALLOWS - Small Plush - 8\" - Style 3",
+    description: "Super soft squishy plush",
+    fullDescription: "The queen of comfort! These super soft, squishy plushies are the ultimate snuggle buddy. The 8-inch size is absolutely perfect for tucking into a stocking.",
+    price: 11.90,
+    affiliateLink: "https://amzn.to/3WRAuQr",
+    category: "Plush & Collectibles",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "terrys-original-orange",
+    title: "Terry's, Original - Orange Flavoured Milk Chocolatey Confection (157g)",
+    description: "Classic chocolate orange",
+    fullDescription: "A holiday tradition for a reason! Smash it, peel it, and share (or don't!). This delicious, classic chocolate orange is a fun, festive treat everyone loves.",
+    price: 6.49,
+    affiliateLink: "https://amzn.to/3WR1v6B",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "labubu-doll-clothes",
+    title: "17cm Doll Clothes Set for Labubu – Lovely Doll Dress with Bow Headband & Mini Chain Bag",
+    description: "Fashion doll outfit set",
+    fullDescription: "For the collectible doll fan! This adorable, high-fashion set lets them customize and dress their favorite 17cm dolls, complete with a tiny bag and bow headband.",
+    price: 13.99,
+    affiliateLink: "https://amzn.to/43qrZj3",
+    category: "Collectibles & Dolls",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "amos-singing-lollipop-watermelon",
+    title: "Amos Music Lollipop Candy, Audio Singing Lollipop (Watermelon Flavor)",
+    description: "Musical novelty lollipop",
+    fullDescription: "A sweet surprise that sings! This unique lollipop is a viral sensation—it plays a tune while they enjoy the candy. A fun, novelty treat that tastes like summer!",
+    price: 12.31,
+    affiliateLink: "https://amzn.to/4p7iWfi",
+    category: "Treats & Novelty",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "clog-shoe-charms-girl",
+    title: "Wohohoho 30 50 Shoe Charms for Clog Shoe Decoration (Girl, 50 Pieces)",
+    description: "Clog charms 50-piece pack",
+    fullDescription: "If they own clogs, they need charms! This big pack offers 50 pieces of cute, girly-themed accessories to personalize their footwear and trade with friends.",
+    price: 10.99,
+    affiliateLink: "https://amzn.to/3WPbg5a",
+    category: "Fashion Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "hunter-cosplay-wristband",
+    title: "2Pcs Hunter Cosplay K Wristband (Two-Color Woven Bracelet)",
+    description: "Fandom wristband set",
+    fullDescription: "For the fandom fashionista! This bracelet set is a subtle, cool way for fans to show off their love for their favorite characters, whether they're at a concert or just at school.",
+    price: 14.99,
+    affiliateLink: "https://amzn.to/3XkPkPt",
+    category: "Fashion Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "lego-friends-unicorn-pool",
+    title: "LEGO Friends Unicorn & Flamingo Pool Party Playset",
+    description: "Cute mini LEGO set",
+    fullDescription: "A delightful mini-build! This brightly colored LEGO Friends set is small enough for a stocking but packed with cute animal figures and fun accessories for creative storytelling.",
+    price: 9.86,
+    affiliateLink: "https://amzn.to/3JXnoOF",
+    category: "Building Toys",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "silicon-phone-mount",
+    title: "zakora 2PCS Silicon Suction Phone Case Mount (Rose red)",
+    description: "Hands-free phone mount",
+    fullDescription: "The perfect hands-free gadget! These little suction mounts stick to the back of their phone and let them prop it up on mirrors or smooth surfaces for TikToks and video calls.",
+    price: 7.99,
+    affiliateLink: "https://amzn.to/4p7j3re",
+    category: "Phone Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "stanley-bottle-carrier",
+    title: "GOEWY Water Bottle Carrier Bag for Stanley 40/30 oz Tumbler",
+    description: "Stanley cup carrier bag",
+    fullDescription: "Give her Stanley cup an upgrade! This neoprene carrier is a must-have accessory, complete with a strap and a pocket for her phone—perfect for school or the gym.",
+    price: 15.99,
+    affiliateLink: "https://amzn.to/47z5fQl",
+    category: "Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "stanley-straw-charms",
+    title: "Stanley Cup Accessories: 4PCS Straw Cover Cap and 2PCS Butterfly Letter Charms",
+    description: "Stanley cup charms",
+    fullDescription: "Tiny details make a difference! These butterfly charms and straw covers add a super cute, personalized touch to her favorite tumbler and keep the straw clean.",
+    price: 8.49,
+    affiliateLink: "https://amzn.to/4r7L97A",
+    category: "Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "eyebrow-tweezers-set",
+    title: "SWEET VIEW 7pcs Eyebrow Tweezers Set",
+    description: "Complete tweezer grooming set",
+    fullDescription: "A practical beauty essential! This comprehensive 7-piece set ensures she has all the right tools for brow maintenance and everyday grooming—a great high-value stuffer. This set does have a dermaplaning blade, so highly recommend for the older girls in your tribe.",
+    price: 9.99,
+    affiliateLink: "https://amzn.to/4qOdaRr",
+    category: "Beauty & Grooming",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "skincare-headband-sponge",
+    title: "Skincare Headbands (Sponge Spa Headband and Wristband Set)",
+    description: "Spa headband and wristband",
+    fullDescription: "Level up the spa routine! This trendy sponge headband and wristband set keeps hair dry and water from dripping down her arms during face washing—a TikTok-favorite essential.",
+    price: 10.99,
+    affiliateLink: "https://amzn.to/3Lqlbfd",
+    category: "Beauty & Skincare",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "eos-birthday-cake-balm",
+    title: "EOS Super Soft Shea Lip Balm - Birthday Cake (Lip Sphere)",
+    description: "Iconic sphere lip balm",
+    fullDescription: "Pure nostalgia and delicious moisture! This beloved, sphere-shaped lip balm delivers 24-hour hydration with the fun, sweet flavor of birthday cake.",
+    price: 4.96,
+    affiliateLink: "https://amzn.to/47z5oDn",
+    category: "Beauty & Lip Care",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "delectable-hand-cream-set",
+    title: "Delectable by Cake Beauty Assorted Ultra Nourishing Hand Cream Set (Set of 4)",
+    description: "Dessert-scented hand creams",
+    fullDescription: "Perfect for dividing or gifting as one set! These luxurious, dessert-scented hand creams are ultra-nourishing and instantly feel like a high-end treat.",
+    price: 16.00,
+    affiliateLink: "https://amzn.to/49Lu6Sk",
+    category: "Beauty & Skincare",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "magnetic-balls-fidget",
+    title: "Magnetic Balls Fidget Toy Adults&Teens (8pcs Silicone Shell)",
+    description: "Sensory magnetic balls",
+    fullDescription: "Calm, cool, and collected. These soft, sensory magnetic balls are a discreet and satisfying way to fidget, helping reduce anxiety and improve focus during homework or downtime.",
+    price: 24.99,
+    affiliateLink: "https://amzn.to/4p1tpbZ",
+    category: "Fidget & Stress Relief",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "crystal-nail-file-set",
+    title: "Diodiva Crystal Glass Nail File Set - 3 Pack with Case",
+    description: "Premium glass nail files",
+    fullDescription: "The best kept secret in manicure tools! These crystal glass files are gentle, effective, and give the nail edge a smooth, perfect finish. A high-quality set that will last.",
+    price: 12.20,
+    affiliateLink: "https://amzn.to/49NFc9n",
+    category: "Beauty & Nails",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "hershey-hot-chocolate-bomb",
+    title: "Hershey's Hot Chocolate Bomb With Mini Marshmallows (36 g)",
+    description: "Chocolate sphere hot cocoa",
+    fullDescription: "A warm hug in a mug! Just drop this chocolate sphere into hot milk and watch it melt away to reveal mini marshmallows. Pure, cozy holiday magic.",
+    price: 2.99,
+    affiliateLink: "https://amzn.to/47NCJcv",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  {
+    id: "grace-stella-skin-rescue",
+    title: "grace & stella Award Winning Skin Rescue Covers (Hydrocolloid, 72 Count)",
+    description: "Acne hydrocolloid patches",
+    fullDescription: "Another skin-saving superhero! These multi-shape hydrocolloid patches are an award-winning way to handle breakouts discreetly. A practical gift that boosts confidence.",
+    price: 13.95,
+    affiliateLink: "https://amzn.to/3WSmLsC",
+    category: "Beauty & Skincare",
+    guideSource: "Stocking Stuffers Teen/Tween Girls"
+  },
+  // Stocking Stuffers Teen/Tween Boys
+  {
+    id: "silicone-magnetic-balls-green",
+    title: "Silicone Magnetic Balls Fidget Toys for Adults & Teens (Green)",
+    description: "Silent fidget magnets",
+    fullDescription: "Say goodbye to anxious tapping! These fun, textured silicone magnets are a silent, satisfying way to keep hands busy and stress levels low—perfect for desk fidgeting or study breaks.",
+    price: 16.99,
+    affiliateLink: "https://amzn.to/4hT1Orb",
+    category: "Fidget & Stress Relief",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "everbrite-mini-flashlights",
+    title: "EverBrite 4-Pack Mini LED Aluminum Flashlight Party Favors (Colors Assorted)",
+    description: "Mini LED flashlight pack",
+    fullDescription: "You can never have too many flashlights! This 4-pack of sturdy, bright mini lights is a super practical stuffer—great for camping, reading under the covers, or finding lost treasures.",
+    price: 21.99,
+    affiliateLink: "https://amzn.to/47xpaiC",
+    category: "Tools & Gadgets",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "lego-creative-food-friends",
+    title: "LEGO Classic Creative Food Friends Building Toy Set - Pretend Play Food",
+    description: "Food-themed LEGO set",
+    fullDescription: "Even older kids love small, creative builds! This adorable food-themed set is a fun, quick project that's the perfect size for a stocking and sparks imaginative play.",
+    price: 12.86,
+    affiliateLink: "https://amzn.to/47Pzu4a",
+    category: "Building Toys",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "pokemon-mega-evolution-pack",
+    title: "Pokemon TCG: Mega Evolution Sleeved Booster Pack - 10 Cards",
+    description: "Pokémon card booster pack",
+    fullDescription: "The holy grail for any collector! A fresh pack of Pokémon cards offers the thrill of the chase and the chance for a rare pull. A definite win for the stocking!",
+    price: 11.95,
+    affiliateLink: "https://amzn.to/49MqxeF",
+    category: "Collectibles & Gaming",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "card-binder-440",
+    title: "Card Binder With 4-Pocket Sleeves, 440 Cards Holder (Red)",
+    description: "Trading card storage binder",
+    fullDescription: "Give their collection the home it deserves! This sturdy, water-resistant binder is essential for protecting and organizing all those beloved trading cards (Pokémon, sports, etc.).",
+    price: 16.98,
+    affiliateLink: "https://amzn.to/49vMiQ3",
+    category: "Collectibles & Gaming",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "boxing-reflex-ball",
+    title: "KTEBO® Boxing Reflex Ball Headband Set",
+    description: "Reflex training ball set",
+    fullDescription: "This is fitness and fun rolled into one! This reflex ball set is a surprisingly addictive way to boost coordination, speed, and concentration—a great active gift to burn off that holiday candy!",
+    price: 17.99,
+    affiliateLink: "https://amzn.to/47OxyJd",
+    category: "Sports & Fitness",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "amos-singing-lollipop-cola",
+    title: "Amos Music Lollipop Candy, Audio Singing Lollipop (Cola Flavor)",
+    description: "Musical cola lollipop",
+    fullDescription: "It's not just a sweet treat, it's a sensory experience! This unique lollipop plays music while they lick—a fun, slightly quirky candy that they'll definitely show off to their friends.",
+    price: 12.31,
+    affiliateLink: "https://amzn.to/4hT1Wa9",
+    category: "Treats & Novelty",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "clog-shoe-charms-trendy",
+    title: "Wohohoho 30 50 Shoe Charms for Clog Shoe Decoration (Trendy, 50 Pieces)",
+    description: "Trendy clog charms pack",
+    fullDescription: "Keep them on trend! With 50 random charms in a trendy pack, they'll have tons of options to customize their favorite foam clogs and swap with friends.",
+    price: 10.99,
+    affiliateLink: "https://amzn.to/3LS9cXI",
+    category: "Fashion Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "dnd-metal-dice-bronze",
+    title: "DND Dice Set with a Black Dice Bottle 7-Die Small Metal DND Dice Set (Ancient bronze)",
+    description: "Metal RPG dice set",
+    fullDescription: "For the budding adventurer! A set of beautiful, solid metal dice is a luxurious upgrade for their D&D, RPG, or board game nights. The small size makes it a perfect stocking treasure.",
+    price: 10.99,
+    affiliateLink: "https://amzn.to/4nRirVD",
+    category: "Games & Collectibles",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "lego-minecraft-nether",
+    title: "LEGO Minecraft The Nether Lava Battle Toy and Playset",
+    description: "Minecraft LEGO battle set",
+    fullDescription: "Bring the game to life! This mini Minecraft LEGO set is an epic battle scene packed into a stocking-friendly box, complete with Alex, a Wither Skeleton, and the cool Strider figure.",
+    price: 9.76,
+    affiliateLink: "https://amzn.to/4nMAJqY",
+    category: "Building Toys",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "tic-tac-mints-4pack",
+    title: "TIC TAC Mints; Stocking Stuffer; 116 grams; 4 Count Single Packs",
+    description: "Classic breath mints",
+    fullDescription: "A practical favorite! You can't go wrong with a classic treat, and this 4-pack of Tic Tacs is a great small filler that's perfect for on-the-go freshness.",
+    price: 8.49,
+    affiliateLink: "https://amzn.to/4nQ7l39",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "playvital-ps5-grips",
+    title: "PlayVital Thumb Grip Caps for ps5/4 Controller (Fire Demons)",
+    description: "Gaming controller grips",
+    fullDescription: "Level up their gear! These thumb grip caps give controllers a custom look and a better grip, preventing slippage during intense gaming sessions. A must-have accessory for any console gamer.",
+    price: 13.99,
+    affiliateLink: "https://amzn.to/3JSfEgS",
+    category: "Gaming Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "nintendo-switch-grips",
+    title: "Thumb Grip Caps for Nintendo Switch (4Pcs - Multi-Color)",
+    description: "Switch joystick caps",
+    fullDescription: "Switch users need protection too! This 4-pack of colorful, soft silicone caps not only protects the joysticks but gives them extra grip for those marathon gaming sessions.",
+    price: 8.99,
+    affiliateLink: "https://amzn.to/3WPvbkC",
+    category: "Gaming Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "patchrx-pimple-patches",
+    title: "PatchRx Pimple Patches for Face (120 Patches)",
+    description: "Hydrocolloid acne patches",
+    fullDescription: "A super practical stuffer they'll actually use! These discreet hydrocolloid patches work their magic overnight, making this a thoughtful, confidence-boosting essential.",
+    price: 14.99,
+    affiliateLink: "https://amzn.to/3Jvqutb",
+    category: "Grooming & Skincare",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "moverays-hand-grip",
+    title: "MoveRays Hand Grip Strengthener (Silicone Rings)",
+    description: "Grip strength rings",
+    fullDescription: "For the athlete or the fidgeter! These colorful silicone rings are a great, compact way to build grip strength for sports or simply serve as a quiet, satisfying hand exerciser.",
+    price: 17.99,
+    affiliateLink: "https://amzn.to/3JtttlX",
+    category: "Sports & Fitness",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "sneakerasers-cleaner",
+    title: "SneakERASERS Instant Sole and Sneaker Cleaner (10 Pack)",
+    description: "Sneaker cleaning sponges",
+    fullDescription: "Keep those expensive sneakers looking fresh! These powerful little sponges instantly clean and whiten shoe soles—a genius, practical tool for the style-conscious teen.",
+    price: 16.99,
+    affiliateLink: "https://amzn.to/4p1EzNT",
+    category: "Accessories & Care",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  {
+    id: "ok-thumbs-phone-holder",
+    title: "Cell Phone Stand Stocking Stuffers (OK Thumbs Lazy Phone Holder)",
+    description: "Hands-free phone stand",
+    fullDescription: "Two thumbs up for this gadget! This fun, adjustable phone holder is perfect for hands-free viewing, video calls, or just keeping their desk organized. A cool and affordable little helper.",
+    price: 9.99,
+    affiliateLink: "https://amzn.to/49dLYoS",
+    category: "Phone Accessories",
+    guideSource: "Stocking Stuffers Teen/Tween Boys"
+  },
+  // Stocking Stuffers for Kids
+  {
+    id: "golden-books-kpop-hunters",
+    title: "Golden Books: For the Fans! (KPop Demon Hunters)",
+    description: "K-Pop themed Golden Book",
+    fullDescription: "Who knew Golden Books had such epic taste? This is the cutest, most colorful way for them to dive into the world of K-Pop Demon Hunters!",
+    price: 9.50,
+    affiliateLink: "https://amzn.to/3LvTzoW",
+    category: "Books & Reading",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "golden-books-dnd",
+    title: "Golden Books: A Long Rest for Little Monsters! (Dungeons & Dragons)",
+    description: "D&D Golden Book",
+    fullDescription: "Roll a twenty-sided die for cuteness! Introduce them to the magic of D&D with this adorable, surprisingly soothing Golden Book.",
+    price: 7.99,
+    affiliateLink: "https://amzn.to/4nMxhN2",
+    category: "Books & Reading",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "lego-friends-guinea-pig",
+    title: "LEGO Friends Guinea Pig Playground",
+    description: "Mini LEGO guinea pig set",
+    fullDescription: "Tiny pieces for tiny hands mean BIG fun! This mini LEGO set fits perfectly in a stocking and delivers maximum, furry-friend-themed building joy.",
+    price: 9.48,
+    affiliateLink: "https://amzn.to/4nRQM6J",
+    category: "Building Toys",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "hot-wheels-f1-5pack",
+    title: "Hot Wheels Toy Cars Formula 1 5-Pack",
+    description: "Formula 1 car collection",
+    fullDescription: "An instant collection! This 5-pack of sleek Formula 1 racers is the perfect way to get their engine roaring on Christmas morning. Vroom!",
+    price: 8.97,
+    affiliateLink: "https://amzn.to/3XnKAZs",
+    category: "Toys & Vehicles",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "royale-high-locker",
+    title: "Royale High Surprise Locker 2-Pack (2) Series 1 Dolls",
+    description: "Surprise doll locker set",
+    fullDescription: "It's two surprises in one! These fashionable mini-dolls come tucked inside their own little lockers, making for a fun, stylish unboxing moment.",
+    price: 10.40,
+    affiliateLink: "https://amzn.to/43mWYMX",
+    category: "Dolls & Collectibles",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "disney-christmas-mickey",
+    title: "Disney - Christmas Mickey Mouse Pyjama Plush",
+    description: "Mickey in holiday PJs",
+    fullDescription: "Dressed in his cozy holiday PJs, this cuddly Mickey is ready to be snuggled all season long! A Christmas classic, updated for the season.",
+    price: 16.98,
+    affiliateLink: "https://amzn.to/3Lw2JSk",
+    category: "Plush & Characters",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "disney-christmas-pluto",
+    title: "Disney - Christmas Pluto Plush",
+    description: "Pluto in festive wear",
+    fullDescription: "The happiest dog on earth is even happier in his festive winter wear! Pluto is the perfect companion for snuggling up by the fireplace.",
+    price: 15.16,
+    affiliateLink: "https://amzn.to/43WovF3",
+    category: "Plush & Characters",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "bluey-blaster-suit-pack",
+    title: "Bluey Figure 2-Pack - Surprise Blaster Suit Pack",
+    description: "Bluey surprise figure set",
+    fullDescription: "Wackadoo! If your house is full of Bluey fans (whose isn't?), this 2-pack is a must-have. The surprise suit adds an extra layer of fun to playtime.",
+    price: 8.40,
+    affiliateLink: "https://amzn.to/47A1IkP",
+    category: "Toys & Figures",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "lankybox-mystery-figures",
+    title: "LankyBox Mystery Figures, Multicolor, Small",
+    description: "YouTube mystery figures",
+    fullDescription: "A tiny mystery for the fans of the wildly popular YouTube duo! These surprise figures are small, colorful, and guaranteed to be a hit.",
+    price: 7.99,
+    affiliateLink: "https://amzn.to/3JMyJB9",
+    category: "Collectibles & Toys",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "shoe-charms-holiday",
+    title: "Shoe Charms Random Shoe Accessories Pack Halloween Christmas",
+    description: "Holiday clog charms",
+    fullDescription: "Because what kid doesn't love customizing their Crocs these days?! This holiday/Halloween mash-up pack offers tons of fun flair for their feet!",
+    price: 8.99,
+    affiliateLink: "https://amzn.to/3XkWLGm",
+    category: "Fashion Accessories",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "amos-singing-lollipop-kids",
+    title: "Amos Music Lollipop Candy, Audio Singing Lollipop, Fun Summer Treat",
+    description: "Singing musical lollipop",
+    fullDescription: "This is a sensory treat! It's a lollipop that actually plays a song. A truly unique sweet surprise they'll never see coming!",
+    price: 12.31,
+    affiliateLink: "https://amzn.to/4oVZZfs",
+    category: "Treats & Novelty",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "terrys-snowball",
+    title: "Terry's Simply Milk Snowball, 145g",
+    description: "Snowball-shaped chocolate",
+    fullDescription: "You can't beat a chocolate orange, and this seasonal snowball shape is just the cutest. A delicious and generous holiday chocolate treat!",
+    price: 6.98,
+    affiliateLink: "https://amzn.to/3X8R1Qh",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "munchkin-falls-bath-toy",
+    title: "Munchkin Falls Baby and Toddler Bath Toy",
+    description: "Waterfall bath toy",
+    fullDescription: "Keep the fun going even when the holidays are over! This charming bath toy creates mini waterfalls and ramps for splashy fun at bath time.",
+    price: 8.97,
+    affiliateLink: "https://amzn.to/49RU6LM",
+    category: "Bath & Play",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "lcd-writing-tablet-2pack",
+    title: "cimetech 2 Pack LCD Writing Tablet for Kids",
+    description: "Reusable drawing tablets",
+    fullDescription: "Excellent bulk buying alert! Since you get a 2-pack, you can stuff two stockings (or keep one for the car!). These no-mess drawing pads are fantastic.",
+    price: 8.80,
+    affiliateLink: "https://amzn.to/43oGW5f",
+    category: "Creative & Educational",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "glo-pals-cubes",
+    title: "Glo Pals - Reusable Light-Up Cubes for Sensory Play 4pk - Lumi - Purple",
+    description: "Light-up bath cubes",
+    fullDescription: "Just drop them in the water and watch the magic! These light-up cubes transform bath time (or sensory bins) into a dazzling, glowing experience.",
+    price: 19.99,
+    affiliateLink: "https://amzn.to/4otl8hb",
+    category: "Bath & Sensory Play",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "lip-smacker-lippy-pals",
+    title: "Lip Smacker Lippy Pals 3 Pack Lip Kit- Unicorn/Panda/Kitten Foxy",
+    description: "Animal-shaped lip balms",
+    fullDescription: "The cutest animal friends in lip balm form! This 3-pack is perfect for splitting up or gifting as one adorable kit for the little lip balm enthusiast.",
+    price: 10.57,
+    affiliateLink: "https://amzn.to/3WRxa7V",
+    category: "Beauty & Fun",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "mouse-straw-covers",
+    title: "Mouse Head Straw Covers for Stanley Cup",
+    description: "Disney-themed straw covers",
+    fullDescription: "The Stanley trend meets Disney magic! These tiny straw covers keep things clean and add an absolutely charming touch to their favorite travel mug.",
+    price: 6.88,
+    affiliateLink: "https://amzn.to/4hR3FwN",
+    category: "Accessories",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "furby-furblets-mini",
+    title: "Furby Furblets Par-Tay Mini Friend",
+    description: "Mini Furby toy",
+    fullDescription: "The iconic Furbies are back and they've shrunk! This mini, musical Furblet is the perfect size to pop into a stocking and bring some quirky noise to the day.",
+    price: 14.99,
+    affiliateLink: "https://amzn.to/47LCpLh",
+    category: "Interactive Toys",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "bluey-aqua-art",
+    title: "Horizon Group USA Bluey Aqua Art - Reusable Water Reveal Activity Pages With Water Pen",
+    description: "Reusable water coloring",
+    fullDescription: "No mess, just pure coloring fun! Using only water, these pages reveal vibrant scenes, and best of all, they can be reused again and again!",
+    price: 7.97,
+    affiliateLink: "https://amzn.to/47OFOsV",
+    category: "Creative & Educational",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "gabbys-dollhouse-cutlery",
+    title: "GABBY'S Dollhouse Travel Cutlery Set",
+    description: "Portable utensil set",
+    fullDescription: "Eating on the go just got a lot cuter! This travel set featuring Gabby's Dollhouse characters is practical, portable, and perfect for school lunches or trips.",
+    price: 7.99,
+    affiliateLink: "https://amzn.to/3WOwmRm",
+    category: "Practical & Fun",
+    guideSource: "Stocking Stuffers for Kids"
+  },
+  {
+    id: "mms-christmas-storybook",
+    title: "M&M'S, Christmas Milk Chocolate Holiday Storybook",
+    description: "Chocolate storybook packaging",
+    fullDescription: "A delightful classic! This festive storybook packaging is a fun, decorative way to deliver a classic handful of colorful chocolate joy.",
+    price: 3.97,
+    affiliateLink: "https://amzn.to/43XDwq3",
+    category: "Treats & Snacks",
+    guideSource: "Stocking Stuffers for Kids"
   }
 ];
