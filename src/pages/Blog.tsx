@@ -8,16 +8,21 @@ import { ArrowRight, Calendar, User } from "lucide-react";
 const Blog = () => {
   // Featured post (most recent)
   const featuredPost = {
-    title: "🎄 Top Toy Picks For the Holiday Season",
-    description: "Christmas is just around the corner! Discover our curated list of 25+ must-have toys for kids ages 2-12 that will make Christmas morning magical.",
-    link: "/blog/top-holiday-toys",
-    date: "November 7, 2025",
+    title: "🎁 The Stocking Stuffer Edit: Trendy, Viral, and Genius Gifts Under $25",
+    description: "Just 46 days until Christmas! Discover five comprehensive lists full of trendy, viral, and genius stocking stuffer ideas—all under $25—to perfectly fill those stockings this year.",
+    link: "/blog/stocking-stuffers",
+    date: "November 9, 2025",
     author: "The Present Pile",
-    excerpt: "Can you believe it? It's hard to wrap our heads around, but Christmas is officially just around the corner! Soon the halls will be decked, mistletoe hung, and trees adorned with twinkling lights and those precious ornaments your kids made in kindergarten (my first grader is already planning her next masterpiece!). The holiday magic is about to be in full swing. I know what you're thinking, though: that perfect gift shopping you swore you'd tackle back in September is still sitting squarely at the top of your to-do list, staring you down. No judgment over here, friend! I'm right there with you. This year, I'm helping you skip the stress and head straight to the good stuff. I've curated a mega list of 25+ items that are guaranteed to have the kids in your life screaming with joy Christmas morning. Everything on this list is geared toward the younger crew, ages 2–12."
+    excerpt: "Growing up, I was the youngest of five children. Christmas morning was always a chaotic mix: my brother and I were up at the crack of dawn, practically vibrating with excitement, while my oldest siblings—already teenagers—were just reaching for their covers, desperate for a few more hours of sleep. I never grew out of that dawn wake-up call. There's something undeniably magical about that dark, tree-lit room, with the bows and wrapping paper shimmering in the early morning quiet. It's the purest form of Christmas magic. So here we are, just 46 days away from Christmas! At The Present Pile, we're ready to help you again, and this time, we're not delivering just one list, but five brand-new, comprehensive lists full of ideas to perfectly fill those stockings this year."
   };
 
   // All blog posts for sidebar
   const allPosts = [
+    {
+      title: "🎁 The Stocking Stuffer Edit: Trendy, Viral, and Genius Gifts Under $25",
+      link: "/blog/stocking-stuffers",
+      date: "November 9, 2025"
+    },
     {
       title: "🎄 Top Toy Picks For the Holiday Season",
       link: "/blog/top-holiday-toys",
@@ -57,6 +62,12 @@ const Blog = () => {
 
   // Gift guide blocks (displayed below featured post)
   const guides = [
+    {
+      title: "🎁 The Stocking Stuffer Edit: Trendy, Viral, and Genius Gifts Under $25",
+      description: "Five comprehensive lists full of trendy, viral, and genius stocking stuffer ideas—all under $25.",
+      link: "/blog/stocking-stuffers",
+      price: "Under $25"
+    },
     {
       title: "🎄 Top Toy Picks For the Holiday Season",
       description: "25+ must-have toys and gifts for kids ages 2-12 that will make Christmas morning magical.",
