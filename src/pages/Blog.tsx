@@ -108,18 +108,16 @@ const Blog = () => {
           </div>
         </section>
 
-        {/* Main Content with Sidebar */}
+        {/* Featured Blog Content */}
         <section className="py-16">
-          <div className="content-container">
-            <div className="grid lg:grid-cols-4 gap-12">
-              {/* Main Content */}
-              <div className="lg:col-span-3">
-                {/* Featured Post */}
-                <article className="mb-16">
-                  <div className="mb-6">
+          <div className="content-container max-w-4xl">
+            <article className="mb-16">
+              <Card className="overflow-hidden">
+                <CardHeader className="pb-4">
+                  <div className="mb-4">
                     <p className="caption text-primary mb-4">Featured Post</p>
                     <h2 className="display-md mb-4">{featuredPost.title}</h2>
-                    <div className="flex items-center gap-4 text-sm text-muted-foreground mb-6">
+                    <div className="flex items-center gap-4 text-sm text-muted-foreground">
                       <div className="flex items-center gap-2">
                         <Calendar className="h-4 w-4" />
                         <span>{featuredPost.date}</span>
@@ -130,9 +128,10 @@ const Blog = () => {
                       </div>
                     </div>
                   </div>
-                  
+                </CardHeader>
+                <CardContent>
                   <div className="prose prose-lg max-w-none mb-8">
-                    <p className="text-lg text-muted-foreground mb-6">{featuredPost.excerpt}</p>
+                    <p className="text-lg text-foreground mb-6">{featuredPost.excerpt}</p>
                     <p className="text-muted-foreground mb-8">{featuredPost.description}</p>
                   </div>
                   
@@ -142,60 +141,44 @@ const Blog = () => {
                       <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
                     </Link>
                   </Button>
-                </article>
+                </CardContent>
+              </Card>
+            </article>
+          </div>
+        </section>
 
-                {/* Gift Guides Grid */}
-                <div>
-                  <h3 className="text-2xl font-display font-semibold mb-8">Browse Our Gift Guides</h3>
-                  <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    {guides.map((guide) => (
-                      <Card key={guide.link} className="hover:shadow-lg transition-shadow">
-                        <CardHeader>
-                          <CardTitle className="text-xl font-display">{guide.title}</CardTitle>
-                          <CardDescription className="text-primary font-semibold">{guide.price}</CardDescription>
-                        </CardHeader>
-                        <CardContent>
-                          <p className="text-muted-foreground mb-6">{guide.description}</p>
-                          <Button asChild variant="editorial" className="w-full group">
-                            <Link to={guide.link}>
-                              Read Full Guide
-                              <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
-                            </Link>
-                          </Button>
-                        </CardContent>
-                      </Card>
-                    ))}
-                  </div>
-                </div>
-              </div>
-
-              {/* Sidebar */}
-              <div className="lg:col-span-1">
-                <div className="sticky top-8">
-                  <Card>
-                    <CardHeader>
-                      <CardTitle className="text-lg font-display">All Posts</CardTitle>
-                    </CardHeader>
-                    <CardContent>
-                      <nav className="space-y-4">
-                        {allPosts.map((post, index) => (
-                          <div key={post.link} className="border-b border-border pb-4 last:border-b-0 last:pb-0">
-                            <Link 
-                              to={post.link} 
-                              className="block group hover:text-primary transition-colors"
-                            >
-                              <h4 className="font-medium text-sm leading-tight mb-2 group-hover:underline">
-                                {post.title}
-                              </h4>
-                              <p className="text-xs text-muted-foreground">{post.date}</p>
-                            </Link>
-                          </div>
-                        ))}
-                      </nav>
-                    </CardContent>
-                  </Card>
-                </div>
-              </div>
+        {/* Gift Lists Section */}
+        <section className="py-16 bg-muted/30">
+          <div className="content-container">
+            <div className="text-center mb-12">
+              <h2 className="display-md mb-4">Explore Our Gift Lists</h2>
+              <p className="body-lg text-muted-foreground max-w-2xl mx-auto">
+                Choose from our curated collections to find the perfect gift for everyone on your list
+              </p>
+            </div>
+            
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
+              {guides.map((guide) => (
+                <Card key={guide.link} className="hover:shadow-lg transition-all hover:scale-[1.02] cursor-pointer group">
+                  <CardHeader>
+                    <CardTitle className="text-lg font-display leading-tight group-hover:text-primary transition-colors">
+                      {guide.title}
+                    </CardTitle>
+                    <CardDescription className="text-primary font-semibold text-base">
+                      {guide.price}
+                    </CardDescription>
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-muted-foreground mb-6 line-clamp-3">{guide.description}</p>
+                    <Button asChild variant="editorial" className="w-full group">
+                      <Link to={guide.link}>
+                        View Gift List
+                        <ArrowRight className="ml-2 h-4 w-4 group-hover:translate-x-1 transition-transform" />
+                      </Link>
+                    </Button>
+                  </CardContent>
+                </Card>
+              ))}
             </div>
           </div>
         </section>
