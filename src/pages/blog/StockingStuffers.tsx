@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 const StockingStuffers = () => {
   const giftLists = [
     {
-      title: "💅 Stocking Stuffers for Her",
+      title: "Stocking Stuffers for Her",
       description: "14 trendy beauty, skincare, and lifestyle essentials perfect for the special women in your life",
       link: "/blog/stocking-stuffers-for-her",
       price: "Under $25"
