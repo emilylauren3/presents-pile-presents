@@ -49,8 +49,15 @@ const Header = () => {
 
           {/* Right side actions */}
           <div className="flex items-center space-x-4">
-            <Button variant="ghost" size="icon" className="text-muted-foreground hover:text-primary">
-              <Search className="h-5 w-5" />
+            <Button 
+              variant="ghost" 
+              size="icon" 
+              className="text-muted-foreground hover:text-primary"
+              asChild
+            >
+              <Link to="/search">
+                <Search className="h-5 w-5" />
+              </Link>
             </Button>
             
             {/* Mobile Menu */}
